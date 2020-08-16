@@ -7,6 +7,73 @@
 by RAMALHOTV
 [COLOR yellow]l[/COLOR]- FILMES 2020 -[COLOR yellow] PEDIDOS E SUJESTAO  ZAPP (44) 998656144 [/COLOR]</info>
 <item>
+ <item>
+<title>[B] O Ritmo da Selva [COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url= https://drive.google.com/file/d/11bo9TjqU-RTQSe4uBfNRtyk2_fM2vd2l/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/5rEiUz4ZiH1ZpXiT45kCOBu0gOw.jpg</thumbnail>
+<fanart>https://ottvsimg.ottvs.com.br/ban/dmd.172445/looke_4001.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Um alienígena com saudades de casa pousa sua nave espacial perto da colorida selva africana. Seus novos amigos animais precisam levá-lo de volta à sua nave e ensiná-lo sobre amizade e diversão antes que seu pai conquistador do espaço possa dominar o planeta.</item>
+<item>
+
+
+<item>
+<title>[B]Um Lobo em Pele de Cordeiro 2 [COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1s0aUxSVTJc9DJj7CPSoUXW7jUXwMF0qs/view</link>
+<thumbnail>https://1.bp.blogspot.com/-ljT3-AIRRNk/Xzimt3NCizI/AAAAAAAAXMs/CjUkM28zKjIIO-Nlvt1MSIOKmuy5qqU2QCLcBGAsYHQ/s0/um-lobo-em-pele-de-cordeiro-2-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://http2.mlstatic.com/desenho-um-lobo-em-pele-de-cordeiro-D_NQ_NP_604935-MLB25987377702_092017-F.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]A cidade unida de ovelhas e lobos leva uma vida tranquila até a chegada de dois convidados inesperados: uma raposa polar e uma pequena ovelha.</item>
+<item>
+
+<item>
+<title>[B]Arma Secreta [COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-YZVuq3QbEBoNSZNLMNwJNsZn0u_pJwI/view</link>
+<thumbnail>https://1.bp.blogspot.com/-pQd1r6mCsNU/Xzil48FETgI/AAAAAAAAXMg/OBmtmu0vg1ouvxY00fOwTqQS5EquiITCgCLcBGAsYHQ/s0/arma-secreta-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://1.bp.blogspot.com/-pQd1r6mCsNU/Xzil48FETgI/AAAAAAAAXMg/OBmtmu0vg1ouvxY00fOwTqQS5EquiITCgCLcBGAsYHQ/s0/arma-secreta-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Baseado em uma história verdadeira, o filme conta sobre o famoso lançador de foguetes russo apelidado de ”Katyusha”, que foi mantido em grande sigilo durante a Segunda Guerra Mundial.
+</item>
+<item>
+
+<item>
+<title>[B] A Câmara do Medo[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1EPEmXJIwM2U84FAhS42bd4vXk6PQhjmR/view</link>
+<thumbnail>https://1.bp.blogspot.com/-o8uZ36_1gVc/XzikILOdiYI/AAAAAAAAXMI/rtSpuo8kij8tU0DEq7MK1Ie2BKY-hwNXgCLcBGAsYHQ/s0/a-camara-do-medo-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://1.bp.blogspot.com/-o8uZ36_1gVc/XzikILOdiYI/AAAAAAAAXMI/rtSpuo8kij8tU0DEq7MK1Ie2BKY-hwNXgCLcBGAsYHQ/s0/a-camara-do-medo-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Elle Chrystler (Shauna MacDonald) é uma doutora que acorda em uma cela cúbica futurista, onde é torturada de diversas maneiras pelo General Zakarian (Oded Fehr), em um Reino Unido que passa por uma sangrenta guerra civil. Com a evolução dos abusos físicos e psicológicos, ela começa a se questionar sobre os eventos que a levaram até a cela.
+</item>
+<item>
+
+<item>
+<title>[B] A Caçada [COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15kcJmajSo28OAqpyvgGOst3VmRiBAPyu/view?usp=drivesdk</link>
+<thumbnail>https://cinepop.com.br/wp-content/uploads/2020/05/cacada_1.jpg</thumbnail>
+<fanart>https://i.pinimg.com/736x/e9/29/cf/e929cfafb5ce683d0c41aa05b24bc287.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Doze estranhos acordam em uma clareira. Eles não sabem onde estão ou como chegaram lá. Eles não sabem que foram escolhidos para um propósito muito específico, A Caçada.</item>
+<item>
+
+<item>
+<title>[B] Sem Misericórdia [COLOR yellow](2013)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16V1SOI2MqbU-Zcxj8mQ5arFmvLfCQvOL/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/9dORQdVCIZMcCUVkQalzmo8nTGp.jpg</thumbnail>
+<fanart>https://1.bp.blogspot.com/-Fx-U8keLFL4/XzHX7y4f43I/AAAAAAAAAYk/tKOkqaxoW_QEoV5LtFGiIh0MjWEhtQGPACLcBGAsYHQ/w1200-h630-p-k-no-nu/CAPA-DVD-LAN%25C3%2587AMENTO-SEM-MISERICORDIA.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Uma garota sul-coreana descobre que sua irmã mais nova foi atacada e abusada por uma gangue. A revelação detona uma furiosa caçada cheia de ação: agora é a hora da vingança.</item>
+<item>
+
+
+<item>
+<title>[B]Sempre Você [COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Y_0gzSpV_Ikaid6VeI35e15iz65xSciV/view</link>
+<thumbnail>https://1.bp.blogspot.com/-K6XOURKBVxs/Xx5sKWJoeYI/AAAAAAAAW_Q/Lzn-MbmvReQ_eKju5UJMW_I0yOeOcMOxwCLcBGAsYHQ/s320/sempre-voce-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/c6/21/fa/c621fa6c8f766f57fd5258b3316e76a2.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Anos 70, jovem e rebelde, Francesca (Laura Chiatti) viajou pelo mundo após a onda de liberação sexual.Quando retorna a sua cidade natal, ela é uma pessoa completamente diferente da garota loira de olhos azuis de que se lembrava seu vizinho Matteo (Michele Riondino), sempre apaixonado por ela.A viagem romântica que Matteo realiza e se compromete a conquistar Francesca se torna a desculpa para refazer, através de espetaculares coreografias e uma delicada direção, os maiores sucessos musicais de Battisti e Mogol.</item>
+<item>
+
+<item>
+<title>[B] Sadako - Capítulo Final[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1FzvX6-pnGpLWDMqcc4aN5mvOZ8u38UU_/view</link>
+<thumbnail>https://1.bp.blogspot.com/-VkzS8QzgsZE/Xx9z1f73BAI/AAAAAAAAXAY/1IsspCLQtLEcLvP_gtjeKkzXNWPkqWE_gCLcBGAsYHQ/s320/sadako-capitulo-final-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://1.bp.blogspot.com/-dtynUmJonXQ/XxtVjjT75VI/AAAAAAABCxQ/w_ZOc85TJvsYwVj4ADXSqJ_-7En5XjqrwCLcBGAsYHQ/s1600/Sadako%2BCap%25C3%25ADtulo%2BFinal.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Uma garota com amnésia é deixada sob os cuidados da psicóloga Mayu (Elaiza Ikeda). De interesse da polícia, nem todos sabem o motivo da garota estar ali. Quando seu irmão, um aspirante a Youtuber em busca da fama, decide revisitar um site derrubado que causou a morte de cinco pessoas, as peças começam a se juntar e uma antiga maldição ressurge.</item>
+<item>
 <item>
 <title>[B]Magnatas do Crime [The Gentlemen - Senhores do Crime] [COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1B3qRPuygNYMF2Xaw57vMh6sqXFSW3FzH/view</link>
