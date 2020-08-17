@@ -18,7 +18,7 @@ by RAMALHOTV
 
 <item>
 <title>[B]Um Lobo em Pele de Cordeiro 2 [COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1s0aUxSVTJc9DJj7CPSoUXW7jUXwMF0qs/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1s0aUxSVTJc9DJj7CPSoUXW7jUXwMF0qs/view?usp=drivesdk</link>
 <thumbnail>https://1.bp.blogspot.com/-ljT3-AIRRNk/Xzimt3NCizI/AAAAAAAAXMs/CjUkM28zKjIIO-Nlvt1MSIOKmuy5qqU2QCLcBGAsYHQ/s0/um-lobo-em-pele-de-cordeiro-2-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://http2.mlstatic.com/desenho-um-lobo-em-pele-de-cordeiro-D_NQ_NP_604935-MLB25987377702_092017-F.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]A cidade unida de ovelhas e lobos leva uma vida tranquila até a chegada de dois convidados inesperados: uma raposa polar e uma pequena ovelha.</item>
@@ -26,7 +26,7 @@ by RAMALHOTV
 
 <item>
 <title>[B]Arma Secreta [COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-YZVuq3QbEBoNSZNLMNwJNsZn0u_pJwI/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-YZVuq3QbEBoNSZNLMNwJNsZn0u_pJwI/view?usp=drivesdk</link>
 <thumbnail>https://1.bp.blogspot.com/-pQd1r6mCsNU/Xzil48FETgI/AAAAAAAAXMg/OBmtmu0vg1ouvxY00fOwTqQS5EquiITCgCLcBGAsYHQ/s0/arma-secreta-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://1.bp.blogspot.com/-pQd1r6mCsNU/Xzil48FETgI/AAAAAAAAXMg/OBmtmu0vg1ouvxY00fOwTqQS5EquiITCgCLcBGAsYHQ/s0/arma-secreta-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Baseado em uma história verdadeira, o filme conta sobre o famoso lançador de foguetes russo apelidado de ”Katyusha”, que foi mantido em grande sigilo durante a Segunda Guerra Mundial.
@@ -35,7 +35,7 @@ by RAMALHOTV
 
 <item>
 <title>[B] A Câmara do Medo[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1EPEmXJIwM2U84FAhS42bd4vXk6PQhjmR/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1EPEmXJIwM2U84FAhS42bd4vXk6PQhjmR/view?usp=drivesdk</link>
 <thumbnail>https://1.bp.blogspot.com/-o8uZ36_1gVc/XzikILOdiYI/AAAAAAAAXMI/rtSpuo8kij8tU0DEq7MK1Ie2BKY-hwNXgCLcBGAsYHQ/s0/a-camara-do-medo-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://1.bp.blogspot.com/-o8uZ36_1gVc/XzikILOdiYI/AAAAAAAAXMI/rtSpuo8kij8tU0DEq7MK1Ie2BKY-hwNXgCLcBGAsYHQ/s0/a-camara-do-medo-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Elle Chrystler (Shauna MacDonald) é uma doutora que acorda em uma cela cúbica futurista, onde é torturada de diversas maneiras pelo General Zakarian (Oded Fehr), em um Reino Unido que passa por uma sangrenta guerra civil. Com a evolução dos abusos físicos e psicológicos, ela começa a se questionar sobre os eventos que a levaram até a cela.
@@ -61,22 +61,71 @@ by RAMALHOTV
 
 <item>
 <title>[B]Sempre Você [COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Y_0gzSpV_Ikaid6VeI35e15iz65xSciV/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Y_0gzSpV_Ikaid6VeI35e15iz65xSciV/view?usp=drivesdk</link>
 <thumbnail>https://1.bp.blogspot.com/-K6XOURKBVxs/Xx5sKWJoeYI/AAAAAAAAW_Q/Lzn-MbmvReQ_eKju5UJMW_I0yOeOcMOxwCLcBGAsYHQ/s320/sempre-voce-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://i.pinimg.com/originals/c6/21/fa/c621fa6c8f766f57fd5258b3316e76a2.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Anos 70, jovem e rebelde, Francesca (Laura Chiatti) viajou pelo mundo após a onda de liberação sexual.Quando retorna a sua cidade natal, ela é uma pessoa completamente diferente da garota loira de olhos azuis de que se lembrava seu vizinho Matteo (Michele Riondino), sempre apaixonado por ela.A viagem romântica que Matteo realiza e se compromete a conquistar Francesca se torna a desculpa para refazer, através de espetaculares coreografias e uma delicada direção, os maiores sucessos musicais de Battisti e Mogol.</item>
 <item>
+ <item>
+<title>[B]Power  [COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15b_jjEYeiaCfd7c-znejaaHYI5806SzT/view?usp=drivesdk</link>
+<thumbnail>https://assets.b9.com.br/wp-content/uploads/2020/08/power-1.jpg</thumbnail>
+<fanart>https://streamingsbrasil.com/wp-content/uploads/2020/08/power-2-continua%C3%A7%C3%A3o-netflix.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Quando uma pílula que dá a seus usuários superpoderes imprevisíveis por cinco minutos chega às ruas de Nova Orleans, um traficante adolescente e um policial local devem se unir a um ex-soldado para derrubar o grupo responsável por sua criação.</item>
+<item>
+
+<item>
+<title>[B]Exterminador: Cavaleiros e Dragões   [COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15etRAg7TdoQRGnq7hlZbNg2Xq012RJEC/view?usp=drivesdk</link>
+<thumbnail>https://1.bp.blogspot.com/-3B3hJezJDRY/XzDi--equbI/AAAAAAAAAz8/kf095E_Z8WMZ-jb8_lXAXr8mcIW_S8yzACLcBGAsYHQ/s1600/da5e4b6526123aa45e8402f2d28b4d39-1.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/owraiceOKtSOa3t8sp3wA9K2Ox6.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Com sua alma despedaçada e seu filho preso, o mercenário e mestre assassino Slade Wilson terá que redimir os pecados do seu passado para alimentar as batalhas do seu futuro!</item>
+<item>
+
+<item>
+<title>[B] Na Rota do Tráfico [COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10gw2oU2FxXNpXlhOrY1gGkqWB-DXdPVJ/view?usp=drivesdk</link>
+<thumbnail>https://media.fstatic.com/0csNtyVx_OOy7rNkxhESjiMOfro=/290x478/smart/media/movies/covers/2020/06/0159661_335.jpg</thumbnail>
+<fanart>https://limaomecanico.com.br/wp-content/uploads/2020/05/Na-Rota-do-Tr%C3%A1fico-720x550.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]O CEO de um conglomerado internacional envia dois de seus executivos mais conceituados para investigar por que os embarques de cocaína estão sendo seqüestrados e cortados em algum lugar da cadeia de suprimentos.</item>
+<item>
+
+<item>
+<title>[B]Oferenda a Tempestade[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Y1Lp8pR2bN6prkysBSFUzFyHK5H9lfJf/view?usp=drivesdk</link>
+<thumbnail>https://i.ytimg.com/vi/L8Uk_SMp-LY/hqdefault.jpg</thumbnail>
+<fanart>https://i.pinimg.com/564x/ef/a9/49/efa949f5903e7566a0f1a660d275934b.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Offering to the Storm é um filme espanhol-alemão de 2020, dirigido por Fernando González Molina, escrito por Luiso Berdejo e Dolores Redondo e estrelado por Marta Etura, Leonardo Sbaraglia e Paco Tous. É a terceira e última parcela da Trilogia Baztán, depois de The Invisible Guardian e The Legacy of the Bones. </item>
+<item>
+
+<item>
+<title>[B]O Fanático   [COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ZkKhbnI0K69wy13vM8f0leoKzhlHiJpx/view?usp=drivesdk</link>
+<thumbnail>https://cinema10.com.br/upload/filmes/filmes_13842_MV5BNmM4ZGM3MGItZjg3My00MDNlLWJhMDktZWFhNDNkNDJjOTA5XkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/9LQC07rGuqg/hqdefault.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Moose é um fã fanático que faz de tudo para conseguir um autógrafo de seu maior ídolo, Hunter Dunbar. Quando as ações de Moose começam a mudar, Dunbar logo se vê à mercê de seu perseguidor cada vez mais perigoso.</item>
+<item>
+
+<item>
+<title>[B]Guerreiros do Futuro  [COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Ce8lwnrRMIn4SXlk4glCkDAtFMupL__f/preview?usp=drivesdk</link>
+<thumbnail>https://d10btd77keh5oj.cloudfront.net/images/filmes/cartaz/future-world49800.jpeg</thumbnail>
+<fanart>https://i.pinimg.com/originals/6c/68/c6/6c68c6d79ed6c4db86f3df9263a3f103.png</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Em um mundo pós-apocalíptico atormentado pelo calor, devastado pela doença e mutilado pela guerra crônica, um jovem de origem nobre embarca em uma viagem através do deserto, a fim de encontrar remédio para a sua mãe moribunda. Armado com seu fiel guarda-costas e apenas uma tênue esperança de que este medicamento realmente exista, ele deve forjar com coragem e enfrentar todos os perigos.</item>
+<item>
+
+
 
 <item>
 <title>[B] Sadako - Capítulo Final[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1FzvX6-pnGpLWDMqcc4aN5mvOZ8u38UU_/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1FzvX6-pnGpLWDMqcc4aN5mvOZ8u38UU_/view?usp=drivesdk</link>
 <thumbnail>https://1.bp.blogspot.com/-VkzS8QzgsZE/Xx9z1f73BAI/AAAAAAAAXAY/1IsspCLQtLEcLvP_gtjeKkzXNWPkqWE_gCLcBGAsYHQ/s320/sadako-capitulo-final-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://1.bp.blogspot.com/-dtynUmJonXQ/XxtVjjT75VI/AAAAAAABCxQ/w_ZOc85TJvsYwVj4ADXSqJ_-7En5XjqrwCLcBGAsYHQ/s1600/Sadako%2BCap%25C3%25ADtulo%2BFinal.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Uma garota com amnésia é deixada sob os cuidados da psicóloga Mayu (Elaiza Ikeda). De interesse da polícia, nem todos sabem o motivo da garota estar ali. Quando seu irmão, um aspirante a Youtuber em busca da fama, decide revisitar um site derrubado que causou a morte de cinco pessoas, as peças começam a se juntar e uma antiga maldição ressurge.</item>
 <item>
 <item>
 <title>[B]Magnatas do Crime [The Gentlemen - Senhores do Crime] [COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1B3qRPuygNYMF2Xaw57vMh6sqXFSW3FzH/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1B3qRPuygNYMF2Xaw57vMh6sqXFSW3FzH/view?usp=drivesdk</link>
 <thumbnail>https://images.moviefit.me/t/o/309645-the-gentlemen.jpg</thumbnail>
 <fanart>https://sm.ign.com/ign_pt/screenshot/default/poster-nacional-01-magnatas-do-crime-64x94cm_73rr.png</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]A história do expatriado americano Mickey Pearson, um homem que criou um império de marijuana altamente lucrativo em Londres. Quando começa a constar que ele está a tentar lucrar com os negócios para se poder reformar, desencadeiam-se conspirações, esquemas, suborno e chantagem, na tentativa de sabotar o seu domínio.</item>
@@ -84,7 +133,7 @@ by RAMALHOTV
 
 <item>
 <title>[B]Kobiety mafii 2[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17Mm3IHdl5U2mD6m5O8XJjp0HPAnEWjaG/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17Mm3IHdl5U2mD6m5O8XJjp0HPAnEWjaG/view?usp=drivesdk</link>
 <thumbnail>https://m.media-amazon.com/images/I/51HCMPjljYL._AC_SS400_.jpg</thumbnail>
 <fanart>https://ocs-pl.oktawave.com/v1/AUTH_2887234e-384a-4873-8bc5-405211db13a2/splay/2019/02/kobiety-mafii-2-recenzja-1180x584.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]A rainha do submundo de Varsóvia está sem sorte: uma transação de drogas dá errado e ela tem que enfrentar um rival, uma aliada irritada e um fanático religioso.</item>
@@ -92,7 +141,7 @@ by RAMALHOTV
 
 <item>
 <title>[B] Aterro Maldito [COLOR yellow](2013)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1831Z3nK6GrdDMp6uqZUknv6UJy8nxUrG/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1831Z3nK6GrdDMp6uqZUknv6UJy8nxUrG/view?usp=drivesdk</link>
 <thumbnail>https://filmesviatorrents.gratis/wp-content/uploads/2020/07/Aterro-Maldito-Torrent-2020-Dublado-Dual-Audio-Bluray-720p.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/yoIA8KwFLk1hwInjGYrnydsIeze.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Depois de perder a mãe, Jeff se une a dois conhecidos e faz um perigoso experimento em que eles param de respirar durante três minutos e são ressuscitados na sequência. Eles são reanimados, sobrevivem e continuam suas vidas. Porém, algo maligno foi despertado quando eles fizeram a passagem entre a vida e a morte.</item>
@@ -100,7 +149,7 @@ by RAMALHOTV
 
 <item>
 <title>[B]Encontro Fatal [COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16iMXKIM0xL0KFi3BpvIovs2qGGE2uWEN/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16iMXKIM0xL0KFi3BpvIovs2qGGE2uWEN/view?usp=drivesdk</link>
 <thumbnail>https://1.bp.blogspot.com/-aH5mDTHnJ-I/XxEoLTISYyI/AAAAAAAAW4M/g23MRAW6RNIez5Z5MUf4K3dIrkUbKxIUACLcBGAsYHQ/s320/encontro-fatal-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://mundonegro.inf.br/wp-content/uploads/2020/07/encontra-fatal-7-1024x489-1.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]</item>
@@ -108,21 +157,21 @@ by RAMALHOTV
 
 <item>
 <title>[B] Greyhound - Na Mira do Inimigo[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/150pI2gc6tLLmCM2pGXYwd0EKt1UzMTJi/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/150pI2gc6tLLmCM2pGXYwd0EKt1UzMTJi/view?usp=drivesdk</link>
 <thumbnail>https://1.bp.blogspot.com/-YMr0lWuysf8/Xwzn9QapzlI/AAAAAAAAF0g/9FSP0x1o2t0t0I2vIJcDlX-RgzCcEvHSACLcBGAsYHQ/s1600/Greyhound.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w780/xXBnM6uSTk6qqCf0SRZKXcga9Ba.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]No início da Segunda Guerra Mundial, um inexperiente capitão da Marinha dos EUA deve liderar um comboio aliado sendo perseguido por barcos e submarinos nazistas.</item>
 <item>
 <item>
 <title>[B]O Bom Samaritano[COLOR yellow](2013)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12WGZnky5335cMbxNaa-gR_NcL4pnd6hC/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12WGZnky5335cMbxNaa-gR_NcL4pnd6hC/view?usp=drivesdk</link>
 <thumbnail>https://1.bp.blogspot.com/-X6CwfOO93yg/Xwu0nRkadcI/AAAAAAAAW1o/ky2f9h8P1ckeYFfbGPvCW-NxaD2xRUKpwCLcBGAsYHQ/s320/o-bom-samaritano-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://1.bp.blogspot.com/-X6CwfOO93yg/Xwu0nRkadcI/AAAAAAAAW1o/ky2f9h8P1ckeYFfbGPvCW-NxaD2xRUKpwCLcBGAsYHQ/s320/o-bom-samaritano-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Karen é atacada durante uma noite enquanto voltava para casa, mas é salva por Daniel, um belo desconhecido. O rapaz se machuca no ataque e ela cuida de suas feridas. Porém, com o passar do tempo, Karen descobre que Daniel não é o herói que aparenta.</item>
 <item>
 <item>
 <title>[B]The Old Guard[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-OHY3jqr2F9hhw9SngGXLe6CtSM8LUTd/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-OHY3jqr2F9hhw9SngGXLe6CtSM8LUTd/view?usp=drivesdk</link>
 <thumbnail>https://30namanews.com/wp-content/uploads/2020/05/The-Old-Guard-poster.jpg</thumbnail>
 <fanart>https://www.cineset.com.br/wp-content/uploads/2020/07/Cr%C3%ADtica-The-Old-Guard-Charlize-Theron-Netflix.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Quatro guerreiros com o dom da imortalidade protegem a humanidade há séculos. Mas seus misteriosos poderes viram alvo de ataque quando outra imortal entra em cena.</item>
@@ -130,7 +179,7 @@ by RAMALHOTV
 
 <item>
 <title>[B]Baile da Morte[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13-GQT9lSaSRWPrw1xvrtE_5VeQutw6hq/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13-GQT9lSaSRWPrw1xvrtE_5VeQutw6hq/view?usp=drivesdk</link>
 <thumbnail>https://media.fstatic.com/DG04u6BFWuSKWo13RoFhqGL4SF8=/290x478/smart/media/movies/covers/2020/05/MV5BZGY2M2UzZjktYWUxMi00ZWMyLWJmZDYtYjNhOGZmMTljYzM4XkEyXkFqcGdeQX_N6mBz4N.jpg</thumbnail>
 <fanart>https://media.fstatic.com/DG04u6BFWuSKWo13RoFhqGL4SF8=/290x478/smart/media/movies/covers/2020/05/MV5BZGY2M2UzZjktYWUxMi00ZWMyLWJmZDYtYjNhOGZmMTljYzM4XkEyXkFqcGdeQX_N6mBz4N.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Depois de perder a mãe em um acidente, uma adolescente e seu pai recebem um primo distante em casa. Na esperança de reivindicar a família como sua, o psicopata traça um plano desonesto para recriar o baile que nunca teve.</item>
@@ -145,7 +194,7 @@ by RAMALHOTV
 <item>
 <item>
 <title>[B] O Segredo da Floresta [COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12nzVdUtkxgrfo9UvZE4Qu6JqDNnJVd8A/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12nzVdUtkxgrfo9UvZE4Qu6JqDNnJVd8A/view?usp=drivesdk</link>
 <thumbnail>https://br.web.img3.acsta.net/pictures/20/06/09/22/02/3895273.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/tXG2638l7Bw/hqdefault.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Um casal de médicos, Jay e Amy, decide fugir um pouco da sua rotina da cidade grande e parte para um retiro no campo, o que supostamente seria um momento de tranquilidade e intimidade para eles. Durante um passeio, Jay pede Amy em casamento e tudo parece perfeito, quando, na volta, eles acabam entrando pela floresta e se deparam com um ritual estranho - eles encontram uma menina amarrada dentro de uma cabana. Ao libertarem a garota, eles libertam também um terrível mal.
@@ -153,7 +202,7 @@ by RAMALHOTV
 <item>
 <item>
 <title>[B] Desperados [COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1EytB79LQyGkQAeIpo_5FbBNx9fR7rIEy/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1EytB79LQyGkQAeIpo_5FbBNx9fR7rIEy/view?usp=drivesdk</link>
 <thumbnail>https://br.web.img3.acsta.net/c_215_290/pictures/20/06/18/09/37/0979024.jpg</thumbnail>
 <fanart>https://i0.wp.com/midwestfilmjournal.com/wp-content/uploads/2020/07/Desperados.png?resize=1160%2C480&ssl=1</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Acompanhada pelos amigos, uma jovem apavorada parte para o México para tentar apagar um e-mail desaforado que enviou ao novo namorado.</item>
@@ -161,7 +210,7 @@ by RAMALHOTV
 
 <item>
 <title>[B]Aluguel de Pesadelo [COLOR yellow](2013)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1EwbDEGE_F01T8crriDEtQP0cWi9JeBQU/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1EwbDEGE_F01T8crriDEtQP0cWi9JeBQU/view?usp=drivesdk</link>
 <thumbnail>https://comandotorrentshd.net/wp-content/uploads/2020/07/Aluguel-de-Pesadelo-TorrentS.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/VdYmnbLsvEQ/hqdefault.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Lydia se muda para um novo apartamento depois de terminar com seu namorado de longa data. A mulher fica cada vez mais isolada quando conhece o proprietário do local, Drew. Logo, o homem se torna secretamente obcecado por ela.</item>
@@ -176,28 +225,28 @@ by RAMALHOTV
 <item>
 <item>
 <title>[B] I Am Vengeance Retaliation [COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11H1MEiC4HpccdZOyjtGKhWk16XBmotIB/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11H1MEiC4HpccdZOyjtGKhWk16XBmotIB/view?usp=drivesdk</link>
 <thumbnail>https://torrentdublado.com/capas/i-am-vengeance-retaliation-legendado-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://1.bp.blogspot.com/-in8e3NFPAcg/Xu5VEJvkoLI/AAAAAAAAI44/THbG7Zw_81w6Aeo5yz18GQyFOSi0zkxAQCLcBGAsYHQ/w1200-h630-p-k-no-nu/I-Am-Vengeance-Retaliation-2020.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]</item>
 <item>
 <item>
 <title>[B] Tolkien [COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1AKGTztRV-HTJYqtOKG9Qtuwor535CaR-/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1AKGTztRV-HTJYqtOKG9Qtuwor535CaR-/view?usp=drivesdk</link>
 <thumbnail>https://1.bp.blogspot.com/-D63ji4JpX7Q/XvkpJQoRYLI/AAAAAAAAWd0/HhW24Fiy35oXTjrnqEderHXxfx14EhRDgCK4BGAsYHg/s320/tolkien-bluray-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://i2.wp.com/noticiasetecnologia.com/wp-content/uploads/2020/04/Tolkien.jpg?fit=850%2C453&ssl=1&resize=1280%2C720</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]“Tolkien” explora os anos de formação do autor órfão ao encontrar amizade, amor e inspiração artística entre um grupo de colegas excluídos da escola. Isso o leva para a eclosão da Primeira Guerra Mundial, que ameaça acabar com a “irmandade”. Todas essas experiências inspirariam Tolkien a escrever seus famosos romances da Terra-Média.</item>
 <item>
 <item>
 <title>[B]Viveiro  [COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/126ZZ0CoKk8OCrFkp7QTTBW63FdbQh4AQ/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/126ZZ0CoKk8OCrFkp7QTTBW63FdbQh4AQ/view?usp=drivesdk</link>
 <thumbnail>https://filmestorrent.vip/wp-content/uploads/2020/06/Viveiro-filmestorrent-vip.png</thumbnail>
 <fanart>https://i.ytimg.com/vi/pcRYNa4MgbQ/hqdefault.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Quando o casal de noivos Tom (Jesse Eisenberg) e Gemma (Imogen Poots), à procura da casa perfeita para começar a vida juntos, conhecem um estranho corretor imobiliário, eles não pensam duas vezes quando são apresentados à Yonder, uma misteriosa vizinhança suburbana de casas idênticas. No entanto, logo eles vão perceber que estão presos em um pesadelo, tendo que criar uma criança de outro mundo.</item>
 <item>
 <item>
 <title>[B]O Homem Invisível [COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1adFgQK9YSVN9pjEEs-iZxFoAUpJqii26/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1adFgQK9YSVN9pjEEs-iZxFoAUpJqii26/view?usp=drivesdk</link>
 <thumbnail>https://1.bp.blogspot.com/-2qDA_W7EOnw/XnLm84FmtnI/AAAAAAAAUDY/esmVOD_nSrMA9BP5J8XAtwnrtuHp50HEACLcBGAsYHQ/s320/o-homem-invisivel-cam-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://assets.papelpop.com/wp-content/uploads/2020/02/eliz.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Presa em uma violenta e controladora relação com um cientista brilhante, Cecilia Kass (Elisabeth Moss) escapa na calada da noite e desaparece, escondendo-se junto com sua irmã (Harriet Dyer), seu amigo de infância (Aldis Hodge) e a filha adolescente (Storm Reid) dele. Mas quando seu ex abusivo (Oliver Jackson-Cohen) comete suicídio e lhe deixa uma generosa parte da fortuna, Cecilia começa a suspeitar que a morte foi forjada. À medida que uma série de coincidências arrepiantes se tornam muito letais, ameaçando a vida daqueles que ela ama, a sanidade de Cecilia começa a enganá-la – e ela desesperadamente tenta provar que está sendo caçada por alguém que ninguém pode ver.
@@ -205,7 +254,7 @@ by RAMALHOTV
 <item>
 <item>
 <title>[B] A Prova de Balas 2[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12ozrqxJHau0lgg3eF8pjIRbAlqWcbTJM/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12ozrqxJHau0lgg3eF8pjIRbAlqWcbTJM/view?usp=drivesdk</link>
 <thumbnail>https://viatorrents.com/capas/a-prova-de-balas-2-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w1280/6B4USIsKWrJmiaVgEYYHqce1SmK.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]25 anos depois, Jack agora trabalha como Agente Especial com a missão de derrubar uma poderosa família criminosa sul-africana. O oficial relutantemente se disfarça mais uma vez, desta vez levando a identidade de Moisés. .
@@ -214,7 +263,7 @@ by RAMALHOTV
 
 <item>
 <title>[B]Bala Perdida [COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-94axPxSsJoXB_PWSufm9LDSrN1PFVaX/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-94axPxSsJoXB_PWSufm9LDSrN1PFVaX/view?usp=drivesdk</link>
 <thumbnail>https://i0.wp.com/www.impawards.com/intl/france/tv/posters/balle_perdue.jpg?w=1000</thumbnail>
 <fanart>https://i.ytimg.com/vi/rRvokiv8gZM/hqdefault.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Um mecânico acusado de assassinato precisa encontrar o carro que contém a única prova de sua inocência: a bala do crime.</item>
@@ -223,21 +272,21 @@ by RAMALHOTV
 
 <item>
 <title>[B]Máquina da Vingança [COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-Fkt_5x2mIWtQVjfGpKOtS3S3avViYf3/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-Fkt_5x2mIWtQVjfGpKOtS3S3avViYf3/view?usp=drivesdk</link>
 <thumbnail>https://br.web.img3.acsta.net/pictures/20/03/13/17/51/5278693.jpg</thumbnail>
 <fanart>https://1.bp.blogspot.com/-KgX3rtaZ0bU/XlBXe7mP3EI/AAAAAAABAgU/EKVzunqKQ3YGKQhLFUA5LjE6CpfyncWrgCEwYBhgL/s1600/M%25C3%25A1quina%2BDa%2BVingan%25C3%25A7a.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Em um futuro distópico, o promotor público Caddock é brutalmente assassinado por um grupo de criminosos. Ao ser arremessado de um prédio e morrer em cima do próprio carro, o espírito de Caddock reencarna no veículo e deseja vingança.</item>
 <item>
 <item>
 <title>[B]Uma Prova de Fé 2: Voltando para Casa [COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15IHDI4Rquv2RTe0EfbBqXRe7ha0_B25K/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15IHDI4Rquv2RTe0EfbBqXRe7ha0_B25K/view?usp=drivesdk</link>
 <thumbnail>https://torrentdublado.com/capas/uma-prova-de-fe-2-voltando-para-casa-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/QiWbsDL4tqI/hqdefault.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Tudo parece estar dando errado para a família Taylor agora. No momento em que Alexa está começando a trabalhar no emprego dos seus sonhos, ela fica impressionada ao cuidar da mãe que sofre da doença de Alzheimer. Seu filho, Beau, acabou de perder sua carreira profissional no futebol devido a uma lesão e sua filha Ravyn precisa de ajuda para planejar seu casamento de última hora. Somente com o apoio de amigos e a graça orientadora de sua fé os Taylors podem encontrar forças para lidar com a onda de drama e tragédia que está rolando sobre suas vidas.</item>
 <item>
 <item>
 <title>[B]Dragões: Equipe de Resgate: Em Busca do Dragão Dourado[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16-qqh96CBAXQUBJK9_2x_PBobLHBRewZ/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16-qqh96CBAXQUBJK9_2x_PBobLHBRewZ/view?usp=drivesdk</link>
 <thumbnail>https://oneflix.site/wp-content/uploads/2020/06/afecdT4uWB9sjo6MnnnjOQmRljq-185x278.jpg</thumbnail>
 <fanart>https://occ-0-1068-92.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABdPlNcGHgiyP7fWQc0bq9e--uIXC3bttgxMSt9uOdp-1idLCqk_t5v7nQPjL2994lr9M50ETIa23RuwPjFMmHSmLOMJa9iSLvDIjwJKHm1C1f_qVvTGfO1G9JfIMsw.jpg?r=c7b</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Hora da caça ao tesouro: a Equipe de Resgate tem de encontrar o ovo do Dragão Dourado antes de os piratas colocarem as mãos nele.</item>
@@ -253,7 +302,7 @@ by RAMALHOTV
  
 <item>
 <title>[B] 7500 [COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15a--Ubp9FCnTJ6ueIIifHqEspRR24u1k/view</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15a--Ubp9FCnTJ6ueIIifHqEspRR24u1k/view?usp=drivesdk</link>
 <thumbnail>https://br.web.img3.acsta.net/pictures/19/07/25/14/49/5453570.jpg</thumbnail>
 <fanart>https://images-na.ssl-images-amazon.com/images/I/91%2BCywW9VPL._AC_SX425_.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Sinopse
