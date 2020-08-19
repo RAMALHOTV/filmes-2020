@@ -8,6 +8,23 @@ by RAMALHOTV
 [COLOR yellow]l[/COLOR]- FILMES 2020 -[COLOR yellow] PEDIDOS E SUJESTAO  ZAPP (44) 998656144 [/COLOR]</info>
 <item>
  <item>
+<title>[B] Nível Hard [COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cX0tMxYV-pe4Rm9NjapYjgiso1Eg0c4w/view?usp=drivesdk</link>
+<thumbnail>https://1.bp.blogspot.com/-LWJwnCOOdkM/Xzyt2wEQZNI/AAAAAAAAXOg/2XRBAGaF0XUNs7ktl8dQR6gUn3PDMyLPgCLcBGAsYHQ/s0/nivel-hard-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://1.bp.blogspot.com/-LWJwnCOOdkM/Xzyt2wEQZNI/AAAAAAAAXOg/2XRBAGaF0XUNs7ktl8dQR6gUn3PDMyLPgCLcBGAsYHQ/s0/nivel-hard-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Um gamer adolescente é obrigado a bancar a babá quando um trio de bebês superpoderosos sai de um jogo e aterrissa no quintal de sua casa.</item>
+<item>
+
+
+<item>
+<title>[B]Valhalla[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15tpjvqg4inmNXIpXuJEo-R22Bpx_a4qN/view?usp=drivesdk</link>
+<thumbnail>https://1.bp.blogspot.com/-yPCj-8gJvs0/XzysbHhlHXI/AAAAAAAAXOM/duQPcbRoRickZHrPRdPv7fFnwDEgSEjMQCLcBGAsYHQ/s0/valhalla-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://1.bp.blogspot.com/-yPCj-8gJvs0/XzysbHhlHXI/AAAAAAAAXOM/duQPcbRoRickZHrPRdPv7fFnwDEgSEjMQCLcBGAsYHQ/s0/valhalla-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]As crianças Vikings Røskva e Tjalfe embarcam em uma viagem de aventura de Midgard a Valhalla com os deuses Thor e Loki. A vida em Valhalla, no entanto, acaba por ser ameaçada pelo temido lobo Fenrir e pelos arqui-inimigos bárbaros do deus, o Jotnar. Lado a lado com os deuses, os dois filhos devem lutar para salvar Valhalla do fim do mundo - Ragnarok.</item>
+<item>
+ 
+<item>
 <title>[B] O Ritmo da Selva [COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url= https://drive.google.com/file/d/11bo9TjqU-RTQSe4uBfNRtyk2_fM2vd2l/view?usp=drivesdk</link>
 <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/5rEiUz4ZiH1ZpXiT45kCOBu0gOw.jpg</thumbnail>
