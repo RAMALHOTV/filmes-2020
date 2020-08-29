@@ -8,6 +8,29 @@ by RAMALHOTV
 [COLOR yellow]l[/COLOR]- FILMES 2020 -[COLOR yellow] PEDIDOS E SUJESTAO  ZAPP (44) 998656144 [/COLOR]</info>
 <item>
  <item>
+<title>[B] O Homem do Amanhã [COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1FlS8FZpys3P5T7cJBf5avQkXTTsNM9K2/view?usp=drivesdk</link>
+<thumbnail>https://observatoriodocinema.uol.com.br/wp-content/uploads/2020/06/Superman-Man-Of-Tomorrow-Box-Art.jpg</thumbnail>
+<fanart>https://kanto.legiaodosherois.com.br/w760-h398-cfill/wp-content/uploads/2019/07/legiao_BewxckRmE91IsaZbzu4dMOf0Q7HvCXS3KNTti2jrLy.jpg.jpeg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]É o início de uma nova era de heróis, e Metrópolis acaba de conhecer o primeiro. Mas como o estagiário do Daily Planet Clark Kent – trabalhando ao lado da repórter Lois Lane – secretamente exerce seus poderes alienígenas de voo, super-força e visão de raio-x na batalha para sempre, há problemas ainda maiores no horizonte.</item>
+<item>
+
+<item>
+<title>[B]Seberg Contra Todos[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1FGCE3yHVzkoRoeOLacmLdm6h_9B4q6CT/view?usp=drivesdk</link>
+<thumbnail>https://br.web.img3.acsta.net/c_215_290/pictures/20/02/18/16/23/0937333.jpg</thumbnail>
+<fanart>https://br.web.img3.acsta.net/c_215_290/pictures/20/02/18/16/23/0937333.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Paris, 1968. A atriz Jean Seberg (Kristen Stewart) está no auge de sua popularidade, graças ao sucesso de vários filmes rodados na França. Ao chegar aos Estados Unidos ela logo se envolve com o ativista de direitos civis Hakim Jamal (Anthony Mackie), que conheceu ainda durante o voo. Jean logo se posiciona a favor dos Panteras Negras e passa a ser uma das financiadoras do movimento, ao mesmo tempo em que mantém um caso com Hakim. Tal situação é acompanhada de perto peo FBI, que mantinha um programa de vigilância para romper e expor os Panteras Negras. Dentre os agentes designados para espioná-la está Jack Solomon (Jack O'Connell), que começa a se rebelar quando o FBI inicia um plano de difamação contra a atriz.</item>
+<item>
+
+<item>
+<title>[B]Do Fundo do Mar 3 [COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ExfS5LziPceZUhqn4Y2iDe3YiyOYWmnw/view?usp=drivesdk</link>
+<thumbnail>https://viatorrents.com/imagens/do-fundo-do-mar-3-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://cinepop.com.br/wp-content/uploads/2020/06/do-fundo-do-mar-3-2-696x432.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]A Doutora Emma Collins e sua equipe estão passando o verão na ilha de Little Happy, estudando o efeito das mudanças climáticas nos grandes tubarões brancos que vêm todos os anos ao berçário próximo para dar à luz. Juntamente com os dois últimos habitantes desta antiga vila de pescadores, sua vida pacífica é interrompida quando uma equipe “científica” liderada por seu ex-namorado e biólogo marinho Richard aparece à procura de três tubarões-touro que logo descobrimos que não são apenas tubarões… e sim máquinas de matar.</item>
+<item>
+ <item>
 <title>[B] Nível Hard [COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cX0tMxYV-pe4Rm9NjapYjgiso1Eg0c4w/view?usp=drivesdk</link>
 <thumbnail>https://1.bp.blogspot.com/-LWJwnCOOdkM/Xzyt2wEQZNI/AAAAAAAAXOg/2XRBAGaF0XUNs7ktl8dQR6gUn3PDMyLPgCLcBGAsYHQ/s0/nivel-hard-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
