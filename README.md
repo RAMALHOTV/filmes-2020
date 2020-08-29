@@ -7,6 +7,24 @@
 by RAMALHOTV
 [COLOR yellow]l[/COLOR]- FILMES 2020 -[COLOR yellow] PEDIDOS E SUJESTAO  ZAPP (44) 998656144 [/COLOR]</info>
 <item>
+
+<item>
+<title>[B]Aprendiz de Epiã[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;urlhttps://drive.google.com/file/d/1GN6H9Oq25tInbW4DyYJDGCbyZ9UI6Bbs/view=?usp=drivesdk</link>
+<thumbnail>https://vertentesdocinema.com/wp-content/uploads/2020/03/APRENDIZ-DE-ESPI%C3%83_POSTER-2.jpg</thumbnail>
+<fanart>https://vertentesdocinema.com/wp-content/uploads/2020/03/APRENDIZ-DE-ESPI%C3%83_POSTER-2.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Um agente da CIA é enviado para vigiar uma família, e se encontra à mercê de uma menina precoce de 9 anos.</item>
+<item>
+
+<item>
+<title>[B]Missão Pijamas[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1a_mPJQqEA9k50Jw9np1jLuamX7u1RwQ3/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/nkhsvQvrKgYRmZS6PVbPRAiISlF.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w342/nkhsvQvrKgYRmZS6PVbPRAiISlF.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Dois irmãos descobrem que sua mãe é uma ex-ladra profissional que está sob proteção de testemunhas quando ela precisa realizar um último trabalho e eles precisam resgatá-la ao longo de uma noite alucinante</item>
+<item>
+
+
  <item>
 <title>[B] O Homem do Amanhã [COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1FlS8FZpys3P5T7cJBf5avQkXTTsNM9K2/view?usp=drivesdk</link>
