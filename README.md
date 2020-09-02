@@ -7,10 +7,16 @@
 by RAMALHOTV
 [COLOR yellow]l[/COLOR]- FILMES 2020 -[COLOR yellow] PEDIDOS E SUJESTAO  ZAPP (44) 998656144 [/COLOR]</info>
 <item>
-
+<item>
+<title>[B]A Ilha - Grand Isle[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=url=?usp=drivesdk</link>
+<thumbnail>https://1.bp.blogspot.com/-4JFVkmp9FP4/X02ZwER4uzI/AAAAAAAAXTE/1476usydOrEUTdTxDKhhI58VozkKm6j5wCLcBGAsYHQ/s0/a-ilha-grand-isle-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://1.bp.blogspot.com/-4JFVkmp9FP4/X02ZwER4uzI/AAAAAAAAXTE/1476usydOrEUTdTxDKhhI58VozkKm6j5wCLcBGAsYHQ/s0/a-ilha-grand-isle-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Um pai é acusado de homicídio e deve provar sua inocência, ao recordar uma noite de eventos muito distorcida e sombria.</item>
+<item>
 <item>
 <title>[B]Aprendiz de Epiã[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;urlhttps://drive.google.com/file/d/1GN6H9Oq25tInbW4DyYJDGCbyZ9UI6Bbs/view=?usp=drivesdk</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1GN6H9Oq25tInbW4DyYJDGCbyZ9UI6Bbs/view=?usp=drivesdk</link>
 <thumbnail>https://vertentesdocinema.com/wp-content/uploads/2020/03/APRENDIZ-DE-ESPI%C3%83_POSTER-2.jpg</thumbnail>
 <fanart>https://vertentesdocinema.com/wp-content/uploads/2020/03/APRENDIZ-DE-ESPI%C3%83_POSTER-2.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Um agente da CIA é enviado para vigiar uma família, e se encontra à mercê de uma menina precoce de 9 anos.</item>
