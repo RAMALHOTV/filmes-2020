@@ -7,6 +7,40 @@
 by RAMALHOTV
 [COLOR yellow]l[/COLOR]- FILMES 2020 -[COLOR yellow] PEDIDOS E SUJESTAO  ZAPP (44) 998656144 [/COLOR]</info>
 <item>
+ <item>
+<title>[B]Mulan[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ds_qallNFihSsavK8AGta0pLWzOrTqjQ/view?usp=sharing</link>
+<thumbnail>https://vignette.wikia.nocookie.net/vozesportuguesas/images/c/cf/Mulan-0.jpg/revision/latest?cb=20200904185918&path-prefix=pt</thumbnail>
+<fanart>https://1.bp.blogspot.com/-wyQNOvxnRmo/X1N-YhkyxVI/AAAAAAAAA1w/EG4Ia7j4j3gpfsoDGOvqc2Ff-egaZVYvwCLcBGAsYHQ/w500-h250/mulan%2B2020.jpeg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Hua Mulan (Liu Yifei) é a espirituosa e determinada filha mais velha de um honrado guerreiro. Quando o Imperador da China emite um decreto que um homem de cada família deve servir no exército imperial, Mulan decide tomar o lugar de seu pai, que está doente. Assumindo a identidade de Hua Jun, ela se disfarça de homem para combater os invasores que estão atacando sua nação, provando-se uma grande guerreira.
+</item>
+<item>
+
+<item>
+<title>[B]Lealdade à Prova [COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url= https://drive.google.com/file/d/1KY7jf-0c522WvYqqyvGc5W2VtYpJtE6e/view?usp=drivesdk</link>
+<thumbnail>https://baixar-filmes.online/wp-content/uploads/2020/06/Lealdade-a-Prova-Torrent-2020-Dual-Audio-Dublado-BluRay.jpg</thumbnail>
+<fanart>https://baixar-filmes.online/wp-content/uploads/2020/06/Lealdade-a-Prova-Torrent-2020-Dual-Audio-Dublado-BluRay.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Policial e reservista da marinha, Callahan (Jai Courtney) tenta viver ao máximo dentro das regras. No entanto, tudo muda quando seu irmão mais novo, Oyster (Nat Wolff), vai preso após uma briga de bar e pega uma sentença de 25 anos atrás das grades. Indignado, o policial questiona sua posição, se vendo obrigado a escolher entre a dedicação à carreira e a devoção à família.</item>
+<item>
+
+<item>
+<title>[B]Rogue [COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1KTe94rgXB5R_WCJuvaWE3jxJJHIb0qJQ/view?usp=drivesdk</link>
+<thumbnail>https://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2020/07/21/rogue.jpg</thumbnail>
+<fanart>https://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2020/07/21/rogue.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Um esquadrão de soldados liderados por O'Hara estão sob a missão de resgatar a filha de um governador de seus captores em um lugar remoto da Africa. Mas quando as coisas dão errados, eles não tem que sobreviver não apenas ao encontro sangrento com uma gangue de rebeldes, mas também a uma horda de leões famintos.</item>
+<item>
+
+<item>
+<title>[B]Desejo Inconcebível [COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1KYvgMzmgsX3FvuaV1ThazTWvXSktuoHg/view?usp=drivesdk</link>
+<thumbnail>https://1.bp.blogspot.com/-nZyV0Nn9Iro/X1MjQRzOnLI/AAAAAAAAXWk/-qOz9T0WBVgLjCmgBurwnT-J14nx_r4VgCLcBGAsYHQ/s320/desejo-inconcebivel-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://1.bp.blogspot.com/-nZyV0Nn9Iro/X1MjQRzOnLI/AAAAAAAAXWk/-qOz9T0WBVgLjCmgBurwnT-J14nx_r4VgCLcBGAsYHQ/s320/desejo-inconcebivel-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Angela Morgan (Gina Gershon) é uma mãe que quer aumentar sua família. Um dia, ela conhece a jovem misteriosa, Katie (Nicky Whelan), e sua filha, que acabaram de se mudar para a cidade. À medida em que se tornam próximas, Angela convence seu marido Brian (Nicolas Cage) de convidar Katie a viver em sua casa de hóspedes e a contratam como babá de sua filha. Ao longo do tempo, a amizade entre as duas mulheres dá lugar a uma obsessão perigosa e Katie parece estar decidida a destruir a família Morgan.
+</item>
+<item>
+
 <item>
 <title>[B]A Ilha - Grand Isle[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=url=?usp=drivesdk</link>
