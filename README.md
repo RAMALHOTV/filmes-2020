@@ -26,7 +26,7 @@ by RAMALHOTV
 
 <item>
 <title>[B]Rogue [COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1KTe94rgXB5R_WCJuvaWE3jxJJHIb0qJQ/view?usp=drivesdk</link>
+<link>https://playplus.azureedge.net/RCFServer5/ondemand/MTNDOGNTHR.mp4</link>
 <thumbnail>https://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2020/07/21/rogue.jpg</thumbnail>
 <fanart>https://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2020/07/21/rogue.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Um esquadrão de soldados liderados por O'Hara estão sob a missão de resgatar a filha de um governador de seus captores em um lugar remoto da Africa. Mas quando as coisas dão errados, eles não tem que sobreviver não apenas ao encontro sangrento com uma gangue de rebeldes, mas também a uma horda de leões famintos.</item>
@@ -43,7 +43,7 @@ by RAMALHOTV
 
 <item>
 <title>[B]A Ilha - Grand Isle[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=url=?usp=drivesdk</link>
+<link>https://playplus.azureedge.net/RCFServer5/ondemand/AILHA.mp4?</link>
 <thumbnail>https://1.bp.blogspot.com/-4JFVkmp9FP4/X02ZwER4uzI/AAAAAAAAXTE/1476usydOrEUTdTxDKhhI58VozkKm6j5wCLcBGAsYHQ/s0/a-ilha-grand-isle-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://1.bp.blogspot.com/-4JFVkmp9FP4/X02ZwER4uzI/AAAAAAAAXTE/1476usydOrEUTdTxDKhhI58VozkKm6j5wCLcBGAsYHQ/s0/a-ilha-grand-isle-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Um pai é acusado de homicídio e deve provar sua inocência, ao recordar uma noite de eventos muito distorcida e sombria.</item>
@@ -83,7 +83,7 @@ by RAMALHOTV
 
 <item>
 <title>[B]Do Fundo do Mar 3 [COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ExfS5LziPceZUhqn4Y2iDe3YiyOYWmnw/view?usp=drivesdk</link>
+<link>https://playplus.azureedge.net/RCFServer5/ondemand/DOFNDMR3.mp4?</link>
 <thumbnail>https://viatorrents.com/imagens/do-fundo-do-mar-3-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://cinepop.com.br/wp-content/uploads/2020/06/do-fundo-do-mar-3-2-696x432.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]A Doutora Emma Collins e sua equipe estão passando o verão na ilha de Little Happy, estudando o efeito das mudanças climáticas nos grandes tubarões brancos que vêm todos os anos ao berçário próximo para dar à luz. Juntamente com os dois últimos habitantes desta antiga vila de pescadores, sua vida pacífica é interrompida quando uma equipe “científica” liderada por seu ex-namorado e biólogo marinho Richard aparece à procura de três tubarões-touro que logo descobrimos que não são apenas tubarões… e sim máquinas de matar.</item>
