@@ -50,7 +50,7 @@ by RAMALHOTV
 <item>
 <item>
 <title>[B]Aprendiz de Epiã[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1GN6H9Oq25tInbW4DyYJDGCbyZ9UI6Bbs/view=?usp=drivesdk</link>
+<link>https://playplus.azureedge.net/RCFServer5/ondemand/APRNDZDESPIA.mp4?attachment=true</link>
 <thumbnail>https://vertentesdocinema.com/wp-content/uploads/2020/03/APRENDIZ-DE-ESPI%C3%83_POSTER-2.jpg</thumbnail>
 <fanart>https://vertentesdocinema.com/wp-content/uploads/2020/03/APRENDIZ-DE-ESPI%C3%83_POSTER-2.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Um agente da CIA é enviado para vigiar uma família, e se encontra à mercê de uma menina precoce de 9 anos.</item>
