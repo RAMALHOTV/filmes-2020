@@ -10,7 +10,7 @@ by RAMALHOTV
  
  <item>
 <title>[B]A Babá: Rainha da Morte[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PvlVh2G7alpL3qiCsixhfUkVlE0y3p9E/view?usp=drivesdk</link>
+<link>https://playplus.azureedge.net/RCFServer2/ondemand/ABABA.mp4?attachment=true</link>
 <thumbnail>https://filmesviatorrents.gratis/wp-content/uploads/2020/09/A-Bab%C3%A1-Rainha-da-Morte-Torrent-214x300.jpg</thumbnail>
 <fanart>https://assets.papelpop.com/wp-content/uploads/2020/08/baba-2.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Dois anos após sobreviver a um culto satânico, Cole vive outro pesadelo: o ensino médio. Mas os demônios do passado continuam infernizando sua vida.</item>
@@ -42,7 +42,7 @@ by RAMALHOTV
 
 <item>
 <title>[B]Lealdade à Prova [COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url= https://drive.google.com/file/d/1KY7jf-0c522WvYqqyvGc5W2VtYpJtE6e/view?usp=drivesdk</link>
+<link>https://playplus.azureedge.net/RCFServer5/ondemand/LEALDADAPRV.mp4?attachment=true</link>
 <thumbnail>https://baixar-filmes.online/wp-content/uploads/2020/06/Lealdade-a-Prova-Torrent-2020-Dual-Audio-Dublado-BluRay.jpg</thumbnail>
 <fanart>https://baixar-filmes.online/wp-content/uploads/2020/06/Lealdade-a-Prova-Torrent-2020-Dual-Audio-Dublado-BluRay.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Policial e reservista da marinha, Callahan (Jai Courtney) tenta viver ao máximo dentro das regras. No entanto, tudo muda quando seu irmão mais novo, Oyster (Nat Wolff), vai preso após uma briga de bar e pega uma sentença de 25 anos atrás das grades. Indignado, o policial questiona sua posição, se vendo obrigado a escolher entre a dedicação à carreira e a devoção à família.</item>
@@ -82,7 +82,7 @@ by RAMALHOTV
 
 <item>
 <title>[B]Missão Pijamas[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1a_mPJQqEA9k50Jw9np1jLuamX7u1RwQ3/view?usp=drivesdk</link>
+<link>https://playplus.azureedge.net/RCFServer5/ondemand/MISAOPJMS.mp4?attachment=true</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/nkhsvQvrKgYRmZS6PVbPRAiISlF.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w342/nkhsvQvrKgYRmZS6PVbPRAiISlF.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Dois irmãos descobrem que sua mãe é uma ex-ladra profissional que está sob proteção de testemunhas quando ela precisa realizar um último trabalho e eles precisam resgatá-la ao longo de uma noite alucinante</item>
@@ -91,7 +91,7 @@ by RAMALHOTV
 
  <item>
 <title>[B] O Homem do Amanhã [COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1FlS8FZpys3P5T7cJBf5avQkXTTsNM9K2/view?usp=drivesdk</link>
+<link>https://playplus.azureedge.net/RCFServer5/ondemand/SPRMNOHMEMDAMNHA.mp4?attachment=true</link>
 <thumbnail>https://observatoriodocinema.uol.com.br/wp-content/uploads/2020/06/Superman-Man-Of-Tomorrow-Box-Art.jpg</thumbnail>
 <fanart>https://kanto.legiaodosherois.com.br/w760-h398-cfill/wp-content/uploads/2019/07/legiao_BewxckRmE91IsaZbzu4dMOf0Q7HvCXS3KNTti2jrLy.jpg.jpeg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]É o início de uma nova era de heróis, e Metrópolis acaba de conhecer o primeiro. Mas como o estagiário do Daily Planet Clark Kent – trabalhando ao lado da repórter Lois Lane – secretamente exerce seus poderes alienígenas de voo, super-força e visão de raio-x na batalha para sempre, há problemas ainda maiores no horizonte.</item>
@@ -99,7 +99,7 @@ by RAMALHOTV
 
 <item>
 <title>[B]Seberg Contra Todos[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1FGCE3yHVzkoRoeOLacmLdm6h_9B4q6CT/view?usp=drivesdk</link>
+<link>https://playplus.azureedge.net/RCFServer5/ondemand/SBRGCNTRTDS.mp4?attachment=true</link>
 <thumbnail>https://br.web.img3.acsta.net/c_215_290/pictures/20/02/18/16/23/0937333.jpg</thumbnail>
 <fanart>https://br.web.img3.acsta.net/c_215_290/pictures/20/02/18/16/23/0937333.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Paris, 1968. A atriz Jean Seberg (Kristen Stewart) está no auge de sua popularidade, graças ao sucesso de vários filmes rodados na França. Ao chegar aos Estados Unidos ela logo se envolve com o ativista de direitos civis Hakim Jamal (Anthony Mackie), que conheceu ainda durante o voo. Jean logo se posiciona a favor dos Panteras Negras e passa a ser uma das financiadoras do movimento, ao mesmo tempo em que mantém um caso com Hakim. Tal situação é acompanhada de perto peo FBI, que mantinha um programa de vigilância para romper e expor os Panteras Negras. Dentre os agentes designados para espioná-la está Jack Solomon (Jack O'Connell), que começa a se rebelar quando o FBI inicia um plano de difamação contra a atriz.</item>
@@ -114,7 +114,7 @@ by RAMALHOTV
 <item>
  <item>
 <title>[B] Nível Hard [COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cX0tMxYV-pe4Rm9NjapYjgiso1Eg0c4w/view?usp=drivesdk</link>
+<link>https://playplus.azureedge.net/RCFServer5/ondemand/NVLHRD.mp4?attachment=true</link>
 <thumbnail>https://1.bp.blogspot.com/-LWJwnCOOdkM/Xzyt2wEQZNI/AAAAAAAAXOg/2XRBAGaF0XUNs7ktl8dQR6gUn3PDMyLPgCLcBGAsYHQ/s0/nivel-hard-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://1.bp.blogspot.com/-LWJwnCOOdkM/Xzyt2wEQZNI/AAAAAAAAXOg/2XRBAGaF0XUNs7ktl8dQR6gUn3PDMyLPgCLcBGAsYHQ/s0/nivel-hard-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Um gamer adolescente é obrigado a bancar a babá quando um trio de bebês superpoderosos sai de um jogo e aterrissa no quintal de sua casa.</item>
@@ -123,7 +123,7 @@ by RAMALHOTV
 
 <item>
 <title>[B]Valhalla[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15tpjvqg4inmNXIpXuJEo-R22Bpx_a4qN/view?usp=drivesdk</link>
+<link>https://playplus.azureedge.net/RCFServer5/ondemand/VLHALNDADTHR.mp4?attachment=true</link>
 <thumbnail>https://1.bp.blogspot.com/-yPCj-8gJvs0/XzysbHhlHXI/AAAAAAAAXOM/duQPcbRoRickZHrPRdPv7fFnwDEgSEjMQCLcBGAsYHQ/s0/valhalla-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://1.bp.blogspot.com/-yPCj-8gJvs0/XzysbHhlHXI/AAAAAAAAXOM/duQPcbRoRickZHrPRdPv7fFnwDEgSEjMQCLcBGAsYHQ/s0/valhalla-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]As crianças Vikings Røskva e Tjalfe embarcam em uma viagem de aventura de Midgard a Valhalla com os deuses Thor e Loki. A vida em Valhalla, no entanto, acaba por ser ameaçada pelo temido lobo Fenrir e pelos arqui-inimigos bárbaros do deus, o Jotnar. Lado a lado com os deuses, os dois filhos devem lutar para salvar Valhalla do fim do mundo - Ragnarok.</item>
@@ -131,7 +131,7 @@ by RAMALHOTV
  
 <item>
 <title>[B] O Ritmo da Selva [COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url= https://drive.google.com/file/d/11bo9TjqU-RTQSe4uBfNRtyk2_fM2vd2l/view?usp=drivesdk</link>
+<link>https://playplus.azureedge.net/RCFServer5/ondemand/ORTMODSLVA.mp4?attachment=true</link>
 <thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/5rEiUz4ZiH1ZpXiT45kCOBu0gOw.jpg</thumbnail>
 <fanart>https://ottvsimg.ottvs.com.br/ban/dmd.172445/looke_4001.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Um alienígena com saudades de casa pousa sua nave espacial perto da colorida selva africana. Seus novos amigos animais precisam levá-lo de volta à sua nave e ensiná-lo sobre amizade e diversão antes que seu pai conquistador do espaço possa dominar o planeta.</item>
@@ -140,7 +140,7 @@ by RAMALHOTV
 
 <item>
 <title>[B]Um Lobo em Pele de Cordeiro 2 [COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1s0aUxSVTJc9DJj7CPSoUXW7jUXwMF0qs/view?usp=drivesdk</link>
+<link>https://playplus.azureedge.net/RCFServer5/ondemand/UMLBOEMPLEDCRDRO2.mp4?attachment=true</link>
 <thumbnail>https://1.bp.blogspot.com/-ljT3-AIRRNk/Xzimt3NCizI/AAAAAAAAXMs/CjUkM28zKjIIO-Nlvt1MSIOKmuy5qqU2QCLcBGAsYHQ/s0/um-lobo-em-pele-de-cordeiro-2-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://http2.mlstatic.com/desenho-um-lobo-em-pele-de-cordeiro-D_NQ_NP_604935-MLB25987377702_092017-F.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]A cidade unida de ovelhas e lobos leva uma vida tranquila até a chegada de dois convidados inesperados: uma raposa polar e uma pequena ovelha.</item>
@@ -148,7 +148,7 @@ by RAMALHOTV
 
 <item>
 <title>[B]Arma Secreta [COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-YZVuq3QbEBoNSZNLMNwJNsZn0u_pJwI/view?usp=drivesdk</link>
+<link>https://playplus.azureedge.net/RCFServer5/ondemand/ARMSCRTA.mp4?attachment=true</link>
 <thumbnail>https://1.bp.blogspot.com/-pQd1r6mCsNU/Xzil48FETgI/AAAAAAAAXMg/OBmtmu0vg1ouvxY00fOwTqQS5EquiITCgCLcBGAsYHQ/s0/arma-secreta-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://1.bp.blogspot.com/-pQd1r6mCsNU/Xzil48FETgI/AAAAAAAAXMg/OBmtmu0vg1ouvxY00fOwTqQS5EquiITCgCLcBGAsYHQ/s0/arma-secreta-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Baseado em uma história verdadeira, o filme conta sobre o famoso lançador de foguetes russo apelidado de ”Katyusha”, que foi mantido em grande sigilo durante a Segunda Guerra Mundial.
@@ -157,7 +157,7 @@ by RAMALHOTV
 
 <item>
 <title>[B] A Câmara do Medo[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1EPEmXJIwM2U84FAhS42bd4vXk6PQhjmR/view?usp=drivesdk</link>
+<link>https://playplus.azureedge.net/RCFServer5/ondemand/ACMRADMDO.mp4?attachment=true</link>
 <thumbnail>https://1.bp.blogspot.com/-o8uZ36_1gVc/XzikILOdiYI/AAAAAAAAXMI/rtSpuo8kij8tU0DEq7MK1Ie2BKY-hwNXgCLcBGAsYHQ/s0/a-camara-do-medo-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://1.bp.blogspot.com/-o8uZ36_1gVc/XzikILOdiYI/AAAAAAAAXMI/rtSpuo8kij8tU0DEq7MK1Ie2BKY-hwNXgCLcBGAsYHQ/s0/a-camara-do-medo-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Elle Chrystler (Shauna MacDonald) é uma doutora que acorda em uma cela cúbica futurista, onde é torturada de diversas maneiras pelo General Zakarian (Oded Fehr), em um Reino Unido que passa por uma sangrenta guerra civil. Com a evolução dos abusos físicos e psicológicos, ela começa a se questionar sobre os eventos que a levaram até a cela.
@@ -166,7 +166,7 @@ by RAMALHOTV
 
 <item>
 <title>[B] A Caçada [COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15kcJmajSo28OAqpyvgGOst3VmRiBAPyu/view?usp=drivesdk</link>
+<link>https://playplus.azureedge.net/RCFServer5/ondemand/ACACDA.mp4?attachment=true</link>
 <thumbnail>https://cinepop.com.br/wp-content/uploads/2020/05/cacada_1.jpg</thumbnail>
 <fanart>https://i.pinimg.com/736x/e9/29/cf/e929cfafb5ce683d0c41aa05b24bc287.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Doze estranhos acordam em uma clareira. Eles não sabem onde estão ou como chegaram lá. Eles não sabem que foram escolhidos para um propósito muito específico, A Caçada.</item>
@@ -183,14 +183,14 @@ by RAMALHOTV
 
 <item>
 <title>[B]Sempre Você [COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Y_0gzSpV_Ikaid6VeI35e15iz65xSciV/view?usp=drivesdk</link>
+<link>https://playplus.azureedge.net/RCFServer5/ondemand/SMPVC.mp4?attachment=true</link>
 <thumbnail>https://1.bp.blogspot.com/-K6XOURKBVxs/Xx5sKWJoeYI/AAAAAAAAW_Q/Lzn-MbmvReQ_eKju5UJMW_I0yOeOcMOxwCLcBGAsYHQ/s320/sempre-voce-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://i.pinimg.com/originals/c6/21/fa/c621fa6c8f766f57fd5258b3316e76a2.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Anos 70, jovem e rebelde, Francesca (Laura Chiatti) viajou pelo mundo após a onda de liberação sexual.Quando retorna a sua cidade natal, ela é uma pessoa completamente diferente da garota loira de olhos azuis de que se lembrava seu vizinho Matteo (Michele Riondino), sempre apaixonado por ela.A viagem romântica que Matteo realiza e se compromete a conquistar Francesca se torna a desculpa para refazer, através de espetaculares coreografias e uma delicada direção, os maiores sucessos musicais de Battisti e Mogol.</item>
 <item>
  <item>
 <title>[B]Power  [COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15b_jjEYeiaCfd7c-znejaaHYI5806SzT/view?usp=drivesdk</link>
+<link>https://playplus.azureedge.net/RCFServer5/ondemand/PWER.mp4?attachment=true</link>
 <thumbnail>https://assets.b9.com.br/wp-content/uploads/2020/08/power-1.jpg</thumbnail>
 <fanart>https://streamingsbrasil.com/wp-content/uploads/2020/08/power-2-continua%C3%A7%C3%A3o-netflix.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Quando uma pílula que dá a seus usuários superpoderes imprevisíveis por cinco minutos chega às ruas de Nova Orleans, um traficante adolescente e um policial local devem se unir a um ex-soldado para derrubar o grupo responsável por sua criação.</item>
@@ -198,7 +198,7 @@ by RAMALHOTV
 
 <item>
 <title>[B]Exterminador: Cavaleiros e Dragões   [COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15etRAg7TdoQRGnq7hlZbNg2Xq012RJEC/view?usp=drivesdk</link>
+<link>https://playplus.azureedge.net/RCFServer5/ondemand/EXTRMNDRCVLRSEDRGROS.mp4?attachment=true</link>
 <thumbnail>https://1.bp.blogspot.com/-3B3hJezJDRY/XzDi--equbI/AAAAAAAAAz8/kf095E_Z8WMZ-jb8_lXAXr8mcIW_S8yzACLcBGAsYHQ/s1600/da5e4b6526123aa45e8402f2d28b4d39-1.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/owraiceOKtSOa3t8sp3wA9K2Ox6.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Com sua alma despedaçada e seu filho preso, o mercenário e mestre assassino Slade Wilson terá que redimir os pecados do seu passado para alimentar as batalhas do seu futuro!</item>
@@ -206,7 +206,7 @@ by RAMALHOTV
 
 <item>
 <title>[B] Na Rota do Tráfico [COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10gw2oU2FxXNpXlhOrY1gGkqWB-DXdPVJ/view?usp=drivesdk</link>
+<link>https://playplus.azureedge.net/RCFServer5/ondemand/NARTADTRFCO.mp4?attachment=true</link>
 <thumbnail>https://media.fstatic.com/0csNtyVx_OOy7rNkxhESjiMOfro=/290x478/smart/media/movies/covers/2020/06/0159661_335.jpg</thumbnail>
 <fanart>https://limaomecanico.com.br/wp-content/uploads/2020/05/Na-Rota-do-Tr%C3%A1fico-720x550.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]O CEO de um conglomerado internacional envia dois de seus executivos mais conceituados para investigar por que os embarques de cocaína estão sendo seqüestrados e cortados em algum lugar da cadeia de suprimentos.</item>
