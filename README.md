@@ -7,6 +7,30 @@
 by RAMALHOTV
 [COLOR yellow]l[/COLOR]- FILMES 2020 -[COLOR yellow] PEDIDOS E SUJESTAO  ZAPP (44) 998656144 [/COLOR]</info>
 <item>
+ 
+ <item>
+<title>[B]A Babá: Rainha da Morte[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PvlVh2G7alpL3qiCsixhfUkVlE0y3p9E/view?usp=drivesdk</link>
+<thumbnail>https://filmesviatorrents.gratis/wp-content/uploads/2020/09/A-Bab%C3%A1-Rainha-da-Morte-Torrent-214x300.jpg</thumbnail>
+<fanart>https://assets.papelpop.com/wp-content/uploads/2020/08/baba-2.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Dois anos após sobreviver a um culto satânico, Cole vive outro pesadelo: o ensino médio. Mas os demônios do passado continuam infernizando sua vida.</item>
+<item>
+
+<item>
+<title>[B]Operação Obscura[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ProQpeot70v0f0Ai1MLtgGeBIIZxXcxg/view?usp=drivesdk</link>
+<thumbnail>https://filmesviatorrents.gratis/wp-content/uploads/2020/09/Opera%C3%A7%C3%A3o-Obscura-Torrent-200x300.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/L9bVuF7SGS8/maxresdefault.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Quando uma operação de rotina resulta na brutal e inexplicável morte de seu colega, uma policial percebe que ninguém, além dela, consegue enxergar a gravação do incidente. Com ataques misteriosos aumentando ao seu redor, ela precisa correr contra o tempo para entender a força sobrenatural por trás deles.</item>
+<item>
+
+<item>
+<title>[B]Vem com o Papai[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=?usp=drivesdk</link>
+<thumbnail>https://www.cafecomfilme.com.br/media/k2/items/cache/58c55e713efcfd97ae673224c426d916_XL.jpg?t=20200815_212441</thumbnail>
+<fanart>https://www.cafecomfilme.com.br/media/k2/items/cache/58c55e713efcfd97ae673224c426d916_XL.jpg?t=20200815_212441</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Um homem de trinta e poucos anos viaja para uma cabana remota para se reconectar com seu pai distante, mas aos poucos vai descobrindo mais sobre o sombrio passado dele.</item>
+<item>
  <item>
 <title>[B]Mulan[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ds_qallNFihSsavK8AGta0pLWzOrTqjQ/view?usp=sharing</link>
