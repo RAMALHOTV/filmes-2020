@@ -8,6 +8,13 @@ by RAMALHOTV
 [COLOR yellow]l[/COLOR]- FILMES 2020 -[COLOR yellow] PEDIDOS E SUJESTAO  ZAPP (44) 998656144 [/COLOR]</info>
 <item>
 
+#################################################################################################
+<item><title>[COLOR white][B]Caça As Bruxas[COLOR yellow](2011)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4959A62ED0ED34203FE654FBE69F659AB25887A2&amp</link>$nome=[COLOR indigo]Elementum[/COLOR]
+<utube>h0OIrhE2fx8</utube>$nome=[COLOR indigo]YOUTUBE[/COLOR]
+<thumbnail>https://media.fstatic.com/n2pnB65l7Kh6XlQ251k4DlnmfRM=/268x386/smart/media/movies/covers/2011/02/26c9541f4b4fc07f4a4f196d4ac5ca1c.jpg</thumbnail><info>[COLOR yellow]Behmen (Nicolas Cage) lutou por vários anos nas Cruzadas, perdeu batalhas, amigos e também a fé. Ao desistir de ajudar a Igreja em sua luta pelo poder, ele só encontra devastação, fome e a peste negra. Ao lado de seu fiel escudeiro Felton (Ron Perlman), ele torna-se inimigo dos governantes, mas acaba recebendo uma missão que pode liquidar seus débitos: levar uma jovem, suspeita de ser uma bruxa, para um monastério distante. Mas o caminho será bastante tortuoso e mesmo antes de chegar ao destino, eles descobrirão que estão diante de forças sobrenaturais e que o mal está além de toda e qualquer compreensão.[/COLOR]</info></item>
+##########################################################################################################################
+
 
 
  
