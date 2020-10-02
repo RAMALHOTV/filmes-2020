@@ -9,11 +9,12 @@ by RAMALHOTV
 <item>
 
 #################################################################################################
-<item><title>[COLOR white][B]Caça As Bruxas[COLOR yellow](2011)[/B][/COLOR]</title>
+<item><title>[COLOR white][B]MULAN[COLOR yellow](2020)[/B][/COLOR]</title>$nome=[COLOR indigo]2 items[/COLOR]
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4959A62ED0ED34203FE654FBE69F659AB25887A2&amp</link>$nome=[COLOR indigo]Elementum[/COLOR]
-<utube>h0OIrhE2fx8</utube>$nome=[COLOR indigo]YOUTUBE[/COLOR]
-<thumbnail>https://media.fstatic.com/n2pnB65l7Kh6XlQ251k4DlnmfRM=/268x386/smart/media/movies/covers/2011/02/26c9541f4b4fc07f4a4f196d4ac5ca1c.jpg</thumbnail><info>[COLOR yellow]Behmen (Nicolas Cage) lutou por vários anos nas Cruzadas, perdeu batalhas, amigos e também a fé. Ao desistir de ajudar a Igreja em sua luta pelo poder, ele só encontra devastação, fome e a peste negra. Ao lado de seu fiel escudeiro Felton (Ron Perlman), ele torna-se inimigo dos governantes, mas acaba recebendo uma missão que pode liquidar seus débitos: levar uma jovem, suspeita de ser uma bruxa, para um monastério distante. Mas o caminho será bastante tortuoso e mesmo antes de chegar ao destino, eles descobrirão que estão diante de forças sobrenaturais e que o mal está além de toda e qualquer compreensão.[/COLOR]</info></item>
+<link>http://br.vid.web.acsta.net/uk/medias//nmedia/55/20/09/09/18//19564042_hd_013.mp4</link>$nome=[COLOR indigo]TRAILER[/COLOR]
+<thumbnail>https://lumiere-a.akamaihd.net/v1/images/mulan_payoff_poster_brazil_5c043e4f.jpeg</thumbnail><info>[COLOR yellow]Em Mulan, Hua Mulan (Liu Yifei) é a espirituosa e determinada filha mais velha de um honrado guerreiro. Quando o Imperador da China emite um decreto que um homem de cada família deve servir no exército imperial, Mulan decide tomar o lugar de seu pai, que está doente. Assumindo a identidade de Hua Jun, ela se disfarça de homem para combater os invasores que estão atacando sua nação, provando-se uma grande guerreira.[/COLOR]</info></item>
 ##########################################################################################################################
+
 
 
 
