@@ -7,6 +7,14 @@
 by RAMALHOTV
 [COLOR yellow]l[/COLOR]- FILMES 2020 -[COLOR yellow] PEDIDOS E SUJESTAO  ZAPP (44) 998656144 [/COLOR]</info>
 <item>
+ #################################################################################################
+<item><title>[COLOR white][B]Caça As Bruxas[COLOR yellow](2011)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b78c881a2900924cf599ba8d2998e0fb59a25c82&dn=Ca%26ccedil%3Ba+%26agrave%3Bs+Bruxas+%282011%29+Blu+Ray+720p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>$nome=[COLOR indigo]elementum[/COLOR]
+<link><utube>h0OIrhE2fx8</utube></link>$nome=[COLOR indigo]YOUTUBE[/COLOR]
+<thumbnail>https://media.fstatic.com/n2pnB65l7Kh6XlQ251k4DlnmfRM=/268x386/smart/media/movies/covers/2011/02/26c9541f4b4fc07f4a4f196d4ac5ca1c.jpg</thumbnail><info>[COLOR yellow]Behmen (Nicolas Cage) lutou por vários anos nas Cruzadas, perdeu batalhas, amigos e também a fé. Ao desistir de ajudar a Igreja em sua luta pelo poder, ele só encontra devastação, fome e a peste negra. Ao lado de seu fiel escudeiro Felton (Ron Perlman), ele torna-se inimigo dos governantes, mas acaba recebendo uma missão que pode liquidar seus débitos: levar uma jovem, suspeita de ser uma bruxa, para um monastério distante. Mas o caminho será bastante tortuoso e mesmo antes de chegar ao destino, eles descobrirão que estão diante de forças sobrenaturais e que o mal está além de toda e qualquer compreensão.[/COLOR]</info></item>
+##########################################################################################################################
+
+
  
  <item>
 <title>[B]A Babá: Rainha da Morte[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
