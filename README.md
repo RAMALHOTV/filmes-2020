@@ -8,14 +8,6 @@ by RAMALHOTV
 [COLOR yellow]l[/COLOR]- FILMES 2020 -[COLOR yellow] PEDIDOS E SUJESTAO  ZAPP (44) 998656144 [/COLOR]</info>
 <item>
 
-#################################################################################################
-<item><title>[COLOR white][B]MULAN[COLOR yellow](2020)[/B][/COLOR]</title>$nome=[COLOR indigo]2 items[/COLOR]
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4959A62ED0ED34203FE654FBE69F659AB25887A2&amp</link>$nome=[COLOR indigo]Elementum[/COLOR]
-<link>http://br.vid.web.acsta.net/uk/medias//nmedia/55/20/09/09/18//19564042_hd_013.mp4</link>$nome=[COLOR indigo]TRAILER[/COLOR]
-<thumbnail>https://lumiere-a.akamaihd.net/v1/images/mulan_payoff_poster_brazil_5c043e4f.jpeg</thumbnail><info>[COLOR yellow]Em Mulan, Hua Mulan (Liu Yifei) é a espirituosa e determinada filha mais velha de um honrado guerreiro. Quando o Imperador da China emite um decreto que um homem de cada família deve servir no exército imperial, Mulan decide tomar o lugar de seu pai, que está doente. Assumindo a identidade de Hua Jun, ela se disfarça de homem para combater os invasores que estão atacando sua nação, provando-se uma grande guerreira.[/COLOR]</info></item>
-##########################################################################################################################
-
-
 
 
  
