@@ -8,6 +8,31 @@ by RAMALHOTV
 [COLOR yellow]l[/COLOR]- FILMES 2020 -[COLOR yellow] PEDIDOS E SUJESTAO  ZAPP (44) 998656144 [/COLOR]</info>
 <item>
 
+<item>
+<title>[B]Cura Fatal[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18rirGRtKeVDq6PfGyL_aEi64i9OwlqYr/view?usp=drivesdk</link>
+<thumbnail>https://1.bp.blogspot.com/-T5Ly1_IvHEE/X3k-Q4lKIvI/AAAAAAAAXlE/WYSWQr5ZGpULFaUUsZwDhtpkf2-tdIyiACLcBGAsYHQ/s320/cura-fatal-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://1.bp.blogspot.com/-T5Ly1_IvHEE/X3k-Q4lKIvI/AAAAAAAAXlE/WYSWQr5ZGpULFaUUsZwDhtpkf2-tdIyiACLcBGAsYHQ/s320/cura-fatal-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:Um físico recluso cria uma máquina de energia infinita em seu porão, que muda a sua vida e todos aqueles ao redor dele. Quando descobre que sua esposa está à beira da morte, um cientista corre contra o tempo para salvar sua família e achar uma cura, só que para isso ele ignora qualquer protocolo ou ética. Ao fazer experimentos de DNA em humanos, ele acaba criando algo terrível que poderia ser a extinção da humanidade.[/B][/COLOR]</item>
+<item>
+
+<item>
+<title>[B]Vampiros Vs The Bronx[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11ybKVSh9b0ZbYrgRJsvOlR0ezFPMbWSC/view?usp=drivesdk</link>
+<thumbnail>https://1.bp.blogspot.com/-QvWxFtHjGl8/X3k9N1MQPjI/AAAAAAAAXk4/52OsGnBjto0zQ5UFNocHHjcE2nt3Zw33QCLcBGAsYHQ/s320/vampiros-vs-the-bronx-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://1.bp.blogspot.com/-QvWxFtHjGl8/X3k9N1MQPjI/AAAAAAAAXk4/52OsGnBjto0zQ5UFNocHHjcE2nt3Zw33QCLcBGAsYHQ/s320/vampiros-vs-the-bronx-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:Quando uma força misteriosa, improvável e mortal surge no Bronx, um grupo de amigos adolescentes se reúne para salvar a adorada bodega local e lutar contra uma força sobrenatural que pretende assumir a casa a todo custo.
+[/B][/COLOR]</item>
+<item>
+
+<item>
+<title>[B]Teste de Paternidade[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Enaf17NsKvJegWmGX0gkCzw1k-D3Cs3d/view?usp=drivesdk</link>
+<thumbnail>https://1.bp.blogspot.com/-OkvvYuzpByE/X3k80qr0pAI/AAAAAAAAXkw/A9YHi7vNRoIq-kq422uMPCLGm3l2usShACLcBGAsYHQ/s320/teste-de-paternidade-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://1.bp.blogspot.com/-OkvvYuzpByE/X3k80qr0pAI/AAAAAAAAXkw/A9YHi7vNRoIq-kq422uMPCLGm3l2usShACLcBGAsYHQ/s320/teste-de-paternidade-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:Eles têm um casamento perfeito. Até que ele cisma que quer ter um filho justo quando a carreira dela está decolando. Será que o destino pode dar uma ajudinha?[/B][/COLOR]</item>
+<item>
+
 
 
  
