@@ -7,7 +7,22 @@
 by RAMALHOTV
 [COLOR yellow]l[/COLOR]- FILMES 2020 -[COLOR yellow] PEDIDOS E SUJESTAO  ZAPP (44) 998656144 [/COLOR]</info>
 <item>
+<item>
+<title>[B]Caixa Preta[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hTLmW2Q1xNYyWlpoZjznCGtRhTnC1tZN/view?usp=drivesdk</link>
+<thumbnail>https://1.bp.blogspot.com/-OK6pBl5Dolg/X30JxlC3pGI/AAAAAAAAXmQ/yPD4el7AtZ80-hbGDCPD1Fjn_SZ6CUPAACLcBGAsYHQ/s320/caixa-preta-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://1.bp.blogspot.com/-OK6pBl5Dolg/X30JxlC3pGI/AAAAAAAAXmQ/yPD4el7AtZ80-hbGDCPD1Fjn_SZ6CUPAACLcBGAsYHQ/s320/caixa-preta-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:Depois de perder sua esposa e sua memória em um acidente de carro, um pai solteiro passa por um agonizante tratamento experimental que o faz questionar quem ele realmente é.[/B][/COLOR]</item>
+<item>
 
+<item>
+<title>[B]A Casa do Terror[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1UnPdUgEVJsop8dTTy6NJotXk-bGdNBMG/view?usp=drivesdk</link>
+<thumbnail>https://1.bp.blogspot.com/-d-mokFZrdZA/X30JDGAbIKI/AAAAAAAAXmI/cubnAWPcBTo-ljlWOELUttUZ3UmJjoNngCLcBGAsYHQ/s320/a-casa-do-terror-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://1.bp.blogspot.com/-d-mokFZrdZA/X30JDGAbIKI/AAAAAAAAXmI/cubnAWPcBTo-ljlWOELUttUZ3UmJjoNngCLcBGAsYHQ/s320/a-casa-do-terror-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:No Halloween, um grupo de amigos encontram uma casa assombrada "extrema", que promete se alimentar dos maiores medos deles. A noite se torna um verdadeiro pesadelo quando eles percebem que é real.
+[/B][/COLOR]</item>
+<item>
 <item>
 <title>[B]Cura Fatal[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18rirGRtKeVDq6PfGyL_aEi64i9OwlqYr/view?usp=drivesdk</link>
