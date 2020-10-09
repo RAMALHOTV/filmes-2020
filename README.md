@@ -8,7 +8,66 @@ by RAMALHOTV
 [COLOR yellow]l[/COLOR]- FILMES 2020 -[COLOR yellow] PEDIDOS E SUJESTAO  ZAPP (44) 998656144 [/COLOR]</info>
 <item>
  
- 
+ <item>
+<title>[B]Sociedade Secreta dos Segundos Filhos Reais[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11dRDZCIu1E9q4_1iOJvUg3SI9lATsC8n/view?usp=drivesdk</link>
+<thumbnail>https://1.bp.blogspot.com/-eg4UQbWJjnU/X4CqjzzjseI/AAAAAAAAXn8/Isq1KUStgj8u_ZKqVhQPjL1kkcbQrScdQCLcBGAsYHQ/s320/sociedade-secreta-dos-segundos-filhos-reais-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://1.bp.blogspot.com/-eg4UQbWJjnU/X4CqjzzjseI/AAAAAAAAXn8/Isq1KUStgj8u_ZKqVhQPjL1kkcbQrScdQCLcBGAsYHQ/s320/sociedade-secreta-dos-segundos-filhos-reais-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:Sam (Peyton Elizabeth Lee) é uma princesa rebelde segunda na linha de sucessão do trono de Ilíria, atualmente ocupado por sua mãe. Quando seu desinteresse pela vida real chega ao limite, ela descobre que tem superpoderes e pertence a uma antiga sociedade secreta que tem a missão de manter a paz no reino.[/B][/COLOR]</item>
+<item>
+
+<item>
+<title>[B]Nekrotronic[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1S0ZulETH94-elcaf3eJ7NahX0uSZ_tai/view?usp=drivesdk</link>
+<thumbnail>https://1.bp.blogspot.com/-Wyax7kKxKuY/X4CqAuSp4eI/AAAAAAAAXnw/bivlSskaC8QniZVQk8kdM3QOW3fZX1loACLcBGAsYHQ/s320/nekrotronic-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://1.bp.blogspot.com/-Wyax7kKxKuY/X4CqAuSp4eI/AAAAAAAAXnw/bivlSskaC8QniZVQk8kdM3QOW3fZX1loACLcBGAsYHQ/s320/nekrotronic-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:Um jovem tem sua vida mudada da noite para o dia quando ele descobre que é parte de um grupo chamado Nekromancers. Caçadores de forças sobrenaturais malignas, os Nekromancers se põem a lutar contra seres demoníacos que usam aplicativos e redes sociais para possuir pessoas.[/B][/COLOR]</item>
+<item>
+
+<item>
+<title>[B]Contos do Caçador de Sombras[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1vRoM2PgZmb-6planfcYaA5aZPWImUWdf/view?usp=drivesdk</link>
+<thumbnail>https://1.bp.blogspot.com/-WisMRZ6xSVM/X4CpQUB26oI/AAAAAAAAXno/YL4mNdgD-WULUxBvrEEJu7pVKyWSD0DRwCLcBGAsYHQ/s320/contos-do-cacador-de-sombras-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://1.bp.blogspot.com/-WisMRZ6xSVM/X4CpQUB26oI/AAAAAAAAXno/YL4mNdgD-WULUxBvrEEJu7pVKyWSD0DRwCLcBGAsYHQ/s320/contos-do-cacador-de-sombras-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:Um lendário caçador de demônios (Jackie Chan), rastreando as bestas que entram na dimensão humana, assistido por um protegido de um homem da lei e um grupo heterogêneo de monstros amigos.
+[/B][/COLOR]</item>
+<item>
+
+<item>
+<title>[B]Mentira Incondicional[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1qWDA0ecpIqMxwMbXe54hau7rW7D94CWf/view?usp=drivesdk</link>
+<thumbnail>https://1.bp.blogspot.com/-1A3zgsv2K6s/X3_xu32sQgI/AAAAAAAAXng/z0EPKJ57QAkplTOI4pNMsXBhiKtIaSO9gCLcBGAsYHQ/s320/mentira-incondicional-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://1.bp.blogspot.com/-1A3zgsv2K6s/X3_xu32sQgI/AAAAAAAAXng/z0EPKJ57QAkplTOI4pNMsXBhiKtIaSO9gCLcBGAsYHQ/s320/mentira-incondicional-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:Quando sua filha adolescente confessa ter matado impulsivamente seu melhor amigo, dois pais desesperados tentam encobrir o crime horrível, levando-os a uma complicada teia de mentiras e enganos.[/B][/COLOR]</item>
+<item>
+
+<item>
+<title>[B]Em Busca do Castelo Dourado[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1D-uN7Lw1Fw_uTAPnm4K1QzOz7dJ0SOVn/view?usp=drivesdk</link>
+<thumbnail>https://1.bp.blogspot.com/-E8WTefUAak8/X3_kHpirqWI/AAAAAAAAXnY/gWET1DLOwbMaEDtdcL-DlXkxgkKFZYbkwCLcBGAsYHQ/s320/the-ash-lad-em-busca-do-castelo-dourado-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://1.bp.blogspot.com/-E8WTefUAak8/X3_kHpirqWI/AAAAAAAAXnY/gWET1DLOwbMaEDtdcL-DlXkxgkKFZYbkwCLcBGAsYHQ/s320/the-ash-lad-em-busca-do-castelo-dourado-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:Na sequência das aventuras de Espen Ash Lad, ele e Kristin embarcam em perigosas jornadas para salvar os irmãos de Espen.[/B][/COLOR]</item>
+<item>
+
+<item>
+<title>[B]O Halloween do Hubie[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1no_iko-qfZ_XzLjxCi_o13RaIIi8Tfxw/view?usp=drivesdk</link>
+<thumbnail>https://1.bp.blogspot.com/-LKdmeJoF5EQ/X3_jRfq3RaI/AAAAAAAAXnM/1bREKrFS04Y1WiysJ92TmmRs6KH3dAeggCLcBGAsYHQ/s320/o-halloween-do-hubie-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://1.bp.blogspot.com/-LKdmeJoF5EQ/X3_jRfq3RaI/AAAAAAAAXnM/1bREKrFS04Y1WiysJ92TmmRs6KH3dAeggCLcBGAsYHQ/s320/o-halloween-do-hubie-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:Hubie Dubois (Adam Sandler) é um excêntrico voluntário da comunidade de Salem que se encontra no meio de um assassinato na noite de Halloween.
+[/B][/COLOR]</item>
+<item>
+
+
+<item>
+<title>[B]S.W.A.T - Força Letal[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17sG4xC6YjKiae8W7FuXNS51X6pQD8skr/view?usp=drivesdk</link>
+<thumbnail>https://1.bp.blogspot.com/-ddwiVs0mSlc/X3ufNTWU84I/AAAAAAAAXl8/yFVaA3y_ucAcxBP5oB3Xz5j0tH9JYKfLgCLcBGAsYHQ/s320/swat-forca-letal-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://1.bp.blogspot.com/-ddwiVs0mSlc/X3ufNTWU84I/AAAAAAAAXl8/yFVaA3y_ucAcxBP5oB3Xz5j0tH9JYKfLgCLcBGAsYHQ/s320/swat-forca-letal-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:A história se concentra na Unidade de Polícia Especial Chinesa, desde o treinamento duro até a primeira missão.
+[/B][/COLOR]</item>
+<item>
+
  
  <item>
 <title>[B]Capturado[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
