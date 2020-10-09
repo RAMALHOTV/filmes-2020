@@ -7,6 +7,16 @@
 by RAMALHOTV
 [COLOR yellow]l[/COLOR]- FILMES 2020 -[COLOR yellow] PEDIDOS E SUJESTAO  ZAPP (44) 998656144 [/COLOR]</info>
 <item>
+ 
+ 
+ 
+ <item>
+<title>[B]Capturado[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1VBSydeWXNAQ94oNEycrUY6kJcPNlhYk_/view?usp=drivesdk</link>
+<thumbnail>https://1.bp.blogspot.com/-EcD62ftvfZw/X358TQr796I/AAAAAAAAXmw/qHrOAsEXKjch6kGyE6c9oBVdiiU-_e7rQCLcBGAsYHQ/s320/capturado-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://1.bp.blogspot.com/-EcD62ftvfZw/X358TQr796I/AAAAAAAAXmw/qHrOAsEXKjch6kGyE6c9oBVdiiU-_e7rQCLcBGAsYHQ/s320/capturado-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:O filho de um ex-agente das forças especiais é sequestrado e enterrado dentro de um caixão no deserto. Se ele quer ver seu filho vivo novamente, então ele deve completar três missões em menos de 5,5 horas antes de seu filho ficar sem oxigênio. Suas missões são eliminar três perigosos grupos internacionais.[/B][/COLOR]</item>
+<item>
 <item>
 <title>[B]Caixa Preta[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hTLmW2Q1xNYyWlpoZjznCGtRhTnC1tZN/view?usp=drivesdk</link>
