@@ -145,7 +145,7 @@ by RAMALHOTV
 <item>
  <item>
 <title>[B]Mulan[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>https://proxy.ec.cx/video.php?url=RCFServer5/ondemand/MULAN.mp4</link>
+<link>https://proxy.ec.cx/video.php?url=RCFServer5/ondemand/MULAN.mp4?attachment=true</link>
 <thumbnail>https://vignette.wikia.nocookie.net/vozesportuguesas/images/c/cf/Mulan-0.jpg/revision/latest?cb=20200904185918&path-prefix=pt</thumbnail>
 <fanart>https://1.bp.blogspot.com/-wyQNOvxnRmo/X1N-YhkyxVI/AAAAAAAAA1w/EG4Ia7j4j3gpfsoDGOvqc2Ff-egaZVYvwCLcBGAsYHQ/w500-h250/mulan%2B2020.jpeg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Hua Mulan (Liu Yifei) é a espirituosa e determinada filha mais velha de um honrado guerreiro. Quando o Imperador da China emite um decreto que um homem de cada família deve servir no exército imperial, Mulan decide tomar o lugar de seu pai, que está doente. Assumindo a identidade de Hua Jun, ela se disfarça de homem para combater os invasores que estão atacando sua nação, provando-se uma grande guerreira.
@@ -158,10 +158,10 @@ by RAMALHOTV
 <link>https://proxy.ec.cx/video.php?url=RCFServer5/ondemand/ABABRNHADMRT.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1JnolYGDrhgo5y3rOb0S1VErF4f.jpg</thumbnail><info>[COLOR yellow]A Babá - A Rainha da Morte acompanha Cole (Judah Lewis) dois anos após derrotar o culto satânico liderado por sua babá Bee (Samara Weaving). Tentando superar o passado e sobreviver no colégio, tudo parece estar bem. Porém, quando velhos inimigos retornam inesperadamente, ele terá que lutar novamente.[/COLOR]</info></item>
 #####################################################################################################################################
 <item><title>[COLOR white]Muito Amor Pra Dar[COLOR yellow](2020)[COLOR red]Comedia[/COLOR]</title>
-<link>https://proxy.ec.cx/video.php?url=/RCFServer5/ondemand/MTAMRPRDAR.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q0zJIhcT4D6KOMjGkRQ9IqSAsHg.jpg</thumbnail><info>[COLOR yellow]Em Muito Amor Pra Dar, Fernando (Adrián Suar) é um homem de família. Famílias, no caso. Casado com Paula (Gabriela Toscano) e Vera (Soledad Villamil), ele é completamente apaixonado por ambas, escondendo uma da outra. Um dia, quando sofre um acidente, suas esposas se cruzam, juntando-se as duas em uma trama para acabar com ele.[/COLOR]</info></item>
+<link>https://proxy.ec.cx/video.php?url=RCFServer5/ondemand/MTAMRPRDAR.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q0zJIhcT4D6KOMjGkRQ9IqSAsHg.jpg</thumbnail><info>[COLOR yellow]Em Muito Amor Pra Dar, Fernando (Adrián Suar) é um homem de família. Famílias, no caso. Casado com Paula (Gabriela Toscano) e Vera (Soledad Villamil), ele é completamente apaixonado por ambas, escondendo uma da outra. Um dia, quando sofre um acidente, suas esposas se cruzam, juntando-se as duas em uma trama para acabar com ele.[/COLOR]</info></item>
 #####################################################################################################################################
 <item><title>[COLOR white]Freaks: Um de Nós[COLOR yellow](2020)[COLOR red][/COLOR]</title>
-<link>https://proxy.ec.cx/video.php?url=/RCFServer5/ondemand/FRKSUMDNS.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q5vhnaaOLSUboRJwiJbYqoUsach.jpg</thumbnail><info>[COLOR yellow]Uma jovem mãe de família descobre que tem superpoderes, adormecidos por anos de medicação, e forma uma pequena equipe para tornar o mundo um lugar melhor.[/COLOR]</info></item>
+<link>https://proxy.ec.cx/video.php?url=RCFServer5/ondemand/FRKSUMDNS.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q5vhnaaOLSUboRJwiJbYqoUsach.jpg</thumbnail><info>[COLOR yellow]Uma jovem mãe de família descobre que tem superpoderes, adormecidos por anos de medicação, e forma uma pequena equipe para tornar o mundo um lugar melhor.[/COLOR]</info></item>
 #####################################################################################################################################
 <item><title>[COLOR white]Operação Obscura[COLOR yellow](2020)[COLOR red]Ação[/COLOR]</title>
 <link>https://proxy.ec.cx/video.php?url=RCFServer5/ondemand/OPRCAOOBSCRA.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8QOAtbYRKsdjcN60y9mpc50cYib.jpg</thumbnail><info>[COLOR yellow]Quando uma operação de rotina resulta na brutal e inexplicável morte de seu colega, uma policial percebe que ninguém, além dela, consegue enxergar a gravação do incidente. Com ataques misteriosos aumentando ao seu redor, ela precisa correr contra o tempo para entender a força sobrenatural por trás deles.[/COLOR]</info></item>
@@ -171,7 +171,7 @@ by RAMALHOTV
 #####################################################################################################################################
 <item>
 <title>[B]Lealdade à Prova [COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>https://playplus.azureedge.net/RCFServer5/ondemand/LEALDADAPRV.mp4?attachment=true</link>
+<link>https://proxy.ec.cx/video.php?url=RCFServer5/ondemand/LEALDADAPRV.mp4?attachment=true</link>
 <thumbnail>https://baixar-filmes.online/wp-content/uploads/2020/06/Lealdade-a-Prova-Torrent-2020-Dual-Audio-Dublado-BluRay.jpg</thumbnail>
 <fanart>https://baixar-filmes.online/wp-content/uploads/2020/06/Lealdade-a-Prova-Torrent-2020-Dual-Audio-Dublado-BluRay.jpg</fanart>
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Policial e reservista da marinha, Callahan (Jai Courtney) tenta viver ao máximo dentro das regras. No entanto, tudo muda quando seu irmão mais novo, Oyster (Nat Wolff), vai preso após uma briga de bar e pega uma sentença de 25 anos atrás das grades. Indignado, o policial questiona sua posição, se vendo obrigado a escolher entre a dedicação à carreira e a devoção à família.</item>
