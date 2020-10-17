@@ -7,7 +7,22 @@
 by RAMALHOTV
 [COLOR yellow]l[/COLOR]- FILMES 2020 -[COLOR yellow] PEDIDOS E SUJESTAO  ZAPP (44) 998656144 [/COLOR]</info>
 <item>
- 
+ <item>
+<title>[B]Attraction 2 -  Invasão[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1UQSiIeBBwWqvM93zqLI9Np08thMaQdy_/view?usp=drivesdk</link>
+<thumbnail>https://1.bp.blogspot.com/-XVDfcqYlKq8/X4pXwIkEWtI/AAAAAAAAXtE/cUhxskPRIgM7VAbO6UNkiIEypI6yaA5xACLcBGAsYHQ/s320/attraction-2-invasao-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://1.bp.blogspot.com/-XVDfcqYlKq8/X4pXwIkEWtI/AAAAAAAAXtE/cUhxskPRIgM7VAbO6UNkiIEypI6yaA5xACLcBGAsYHQ/s320/attraction-2-invasao-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:Com a queda da nave alienígena, a vida de Julia mudou, agora, três anos depois, a humanidade está prestes a experimentar um novo encontro.[/B][/COLOR]</item>
+<item>
+
+<item>
+<title>[B]Manual de Caça a Monstros[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zMExp9GCKAIVnKFJz3bc3fYEwwEFlweP/view?usp=drivesdk</link>
+<thumbnail>https://1.bp.blogspot.com/-36Uv0ri_bL4/X4pYzMeffWI/AAAAAAAAXtY/9EBnBYZykIQam6d480z_XZsgK_07oXscACLcBGAsYHQ/s320/manual-de-caca-a-monstros-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://1.bp.blogspot.com/-36Uv0ri_bL4/X4pYzMeffWI/AAAAAAAAXtY/9EBnBYZykIQam6d480z_XZsgK_07oXscACLcBGAsYHQ/s320/manual-de-caca-a-monstros-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:Uma antipática babá que não gosta muito de crianças precisa se juntar à uma sociedade secreta de babás para lutar contra criaturas da noite quando a criança que ela está cuidando é sequestrada por monstros.
+[/B][/COLOR]</item>
+<item>
  <item>
 <title>[B]Sociedade Secreta dos Segundos Filhos Reais[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11dRDZCIu1E9q4_1iOJvUg3SI9lATsC8n/view?usp=drivesdk</link>
