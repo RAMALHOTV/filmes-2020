@@ -8,6 +8,41 @@ by RAMALHOTV
 [COLOR yellow]l[/COLOR]- FILMES 2020 -[COLOR yellow] PEDIDOS E SUJESTAO  ZAPP (44) 998656144 [/COLOR]</info>
 <item>
  <item>
+<title>[B]Adeus[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1TQ8t_pRATE9LQmFaO7JgMG-nLtLa634w/view</link>
+<thumbnail>https://1.bp.blogspot.com/-yjVTDNcucgw/X45DuCbyt_I/AAAAAAAAXvI/WyOwEySErQAuxc_2tUXKa6fEbFthpe16gCLcBGAsYHQ/s320/adeus-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://1.bp.blogspot.com/-yjVTDNcucgw/X45DuCbyt_I/AAAAAAAAXvI/WyOwEySErQAuxc_2tUXKa6fEbFthpe16gCLcBGAsYHQ/s320/adeus-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:Um prisioneiro consegue permissão para participar da primeira comunhão da filha. Sua morte acidental durante um tiroteio na favela levanta um esquema de narcotráfico e corrupção policial. Cabe a policia cobrir o caso para impedir o pai de se vingar.
+[/B][/COLOR]</item>
+<item>
+
+<item>
+<title>[B]A Espiã[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1IIrS3mWWlfx538tUkqCY2_kXU_HbtTUc/view</link>
+<thumbnail>https://1.bp.blogspot.com/-PrsPe8XRydU/X45C7W5N7lI/AAAAAAAAXu8/kSNDYk1XSgoc5iVNXC801LV_5RQJVgX9ACLcBGAsYHQ/s320/a-espia-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://1.bp.blogspot.com/-PrsPe8XRydU/X45C7W5N7lI/AAAAAAAAXu8/kSNDYk1XSgoc5iVNXC801LV_5RQJVgX9ACLcBGAsYHQ/s320/a-espia-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:O filme mostra a jornada da famosa atriz escandinava Sonja Wigert, que se tornou espiã da inteligência sueca depois que seu pai foi preso pelos alemães. Enquanto se infiltrava mais profundamente na rede de espiões alemães, ameaças e rumores sobre suas simpatias começaram a se desgastar e ela teve que tomar uma decisão fatídica para salvar seu relacionamento com o namorado diplomata húngaro Andor Gellert.
+[/B][/COLOR]</item>
+<item>
+
+<item>
+<title>[B]O Braço Direito[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1uvxJ92kzoCjgTzSMGAN-tDai7Z_hTgls/view</link>
+<thumbnail>https://1.bp.blogspot.com/-d0S0zZGt8qc/X45CEvs5I1I/AAAAAAAAXuw/-Z0dJKpC57Mvm_Bdb2yZxgcJ6UTM1xcAACLcBGAsYHQ/s320/o-braco-direito-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://1.bp.blogspot.com/-d0S0zZGt8qc/X45CEvs5I1I/AAAAAAAAXuw/-Z0dJKpC57Mvm_Bdb2yZxgcJ6UTM1xcAACLcBGAsYHQ/s320/o-braco-direito-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:Em?O Braço Direito? conhecemos a história de Anselmo, um ex-investigador da Polícia Civil que agora atua clandestinamente no Mercado de Ações como o homem de confiança e “faz-tudo” de um magnata da Bovespa. Ele sofre de metástase (câncer generalizado) e tem pouco tempo para solucionar complexas situações profissionais e pessoais.[/B][/COLOR]</item>
+<item>
+
+<item>
+<title>[B]Meu Amigo Robô[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ObBneWLDG63wnyfaexrTx7Zk4TrStyB-/view</link>
+<thumbnail>https://1.bp.blogspot.com/-_-xum2As1SA/X45BAmTOa3I/AAAAAAAAXuk/ftqLV6ygKrwaUXf7eqDHRvcPSUmMM0figCLcBGAsYHQ/s320/meu-amigo-robo-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://1.bp.blogspot.com/-_-xum2As1SA/X45BAmTOa3I/AAAAAAAAXuk/ftqLV6ygKrwaUXf7eqDHRvcPSUmMM0figCLcBGAsYHQ/s320/meu-amigo-robo-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:Moscou, Rússia. A-112 é um robô humanoide destinado a atuar em situações de resgate, de forma a salvar pessoas e diminuir riscos aos humanos. Entretanto, apesar do longo tempo de ensino por uma dedicada equipe de cientistas, ele ainda comete erros básicos de avaliação, quando precisa entrar em ação. Com o projeto correndo riscos de ser cancelado, o robô foge do laboratório decidido a descobrir o que é uma família. Em sua busca ele conhece Mitya, filho de dois cientistas do local que o criou, que é negligenciado pelos pais. Não demora muito para que eles se tornem amigos e Mitya o ajude a se esconder, quando sua fuga se torna pública.[/B][/COLOR]</item>
+<item>
+
+
+ <item>
 <title>[B]Attraction 2 -  Invasão[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1UQSiIeBBwWqvM93zqLI9Np08thMaQdy_/view?usp=drivesdk</link>
 <thumbnail>https://1.bp.blogspot.com/-XVDfcqYlKq8/X4pXwIkEWtI/AAAAAAAAXtE/cUhxskPRIgM7VAbO6UNkiIEypI6yaA5xACLcBGAsYHQ/s320/attraction-2-invasao-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
