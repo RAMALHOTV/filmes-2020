@@ -40,6 +40,80 @@ by RAMALHOTV
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]https://top.azureedge.net/RCFServer5/ondemand/ESPDDEUSATUTMCRZDA.mp4?attachment=true</item>
 <item>
  <item>
+<item>
+<title>[B]Power  [COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>https://proxy.ec.cx/video.php?url=RCFServer5/ondemand/PWER.mp4</link>
+<thumbnail>https://redecanais.bz/imgs-videos/Filmes/Power.jpg</thumbnail>
+<fanart>https://redecanais.bz/imgs-videos/Filmes/Power.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]</item>
+<item>
+
+<item>
+<title>[B]O Ritmo da Selva: O Filme  [COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>https://proxy.ec.cx/video.php?url=RCFServer5/ondemand/ORTMODSLVA.mp4</link>
+<thumbnail>https://redecanais.bz/imgs-videos/Filmes/O%20Ritmo%20da%20Selva%20-%20O%20Filme.jpg</thumbnail>
+<fanart>https://redecanais.bz/imgs-videos/Filmes/O%20Ritmo%20da%20Selva%20-%20O%20Filme.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]</item>
+<item>
+
+
+<item>
+<title>[B]Nível Hard [COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>https://proxy.ec.cx/video.php?url=RCFServer5/ondemand/NVLHRD.mp4</link>
+<thumbnail>https://redecanais.bz/imgs-videos/Filmes/N%C3%ADvel%20Hard.jpg</thumbnail>
+<fanart>https://redecanais.bz/imgs-videos/Filmes/N%C3%ADvel%20Hard.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]</item>
+<item>
+
+<item>
+<title>[B]A Prima Sofia [COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>https://proxy.ec.cx/video.php?url=RCFServer5/ondemand/APRMASFIA.mp4</link>
+<thumbnail>https://redecanais.bz/imgs-videos/Filmes/A%20Prima%20Sofia.jpg</thumbnail>
+<fanart>https://redecanais.bz/imgs-videos/Filmes/A%20Prima%20Sofia.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]</item>
+<item>
+
+<item>
+<title>[B] SCOOBY!: O Filme[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>https://proxy.ec.cx/video.php?url=RCFServer5/ondemand/SCBYOFLME.mp4</link>
+<thumbnail>https://redecanais.bz/imgs-videos/Filmes/SCOOBY!%20O%20Filme.jpg</thumbnail>
+<fanart>https://redecanais.bz/imgs-videos/Filmes/SCOOBY!%20O%20Filme.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]</item>
+<item>
+
+<item>
+<title>[B]365 Dias  [COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>https://proxy.ec.cx/video.php?url=RCFServer5/ondemand/365DIAS.mp4</link>
+<thumbnail>https://redecanais.bz/imgs-videos/Filmes/365%20Dias.jpg</thumbnail>
+<fanart>https://redecanais.bz/imgs-videos/Filmes/365%20Dias.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]</item>
+<item>
+
+<item>
+<title>[B]Valhalla: A Lenda de Thor [COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>https://proxy.ec.cx/video.php?url=RCFServer5/ondemand/VLHALNDADTHR.mp4</link>
+<thumbnail>https://redecanais.bz/imgs-videos/Filmes/Valhalla%20-%20A%20Lenda%20de%20Thor.jpg</thumbnail>
+<fanart>https://redecanais.bz/imgs-videos/Filmes/Valhalla%20-%20A%20Lenda%20de%20Thor.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]</item>
+<item>
+
+
+<item>
+<title>[B]Ultraman R&B: O Filme: O Cristal da União  [COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>https://proxy.ec.cx/video.php?url=RCFServer5/ondemand/VLHALNDADTHR.mp4</link>
+<thumbnail>https://redecanais.bz/imgs-videos/Filmes/Ultraman%20ReB%20-%20O%20Filme%20-%20O%20Cristal%20da%20Uni%C3%A3o.jpg</thumbnail>
+<fanart>https://redecanais.bz/imgs-videos/Filmes/Ultraman%20ReB%20-%20O%20Filme%20-%20O%20Cristal%20da%20Uni%C3%A3o.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]</item>
+<item>
+
+
+<item>
+<title>[B]Solteiramente  [COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>https://proxy.ec.cx/video.php?url=RCFServer5/ondemand/SLTRMNTE.mp4</link>
+<thumbnail>https://redecanais.bz/imgs-videos/Filmes/Solteiramente.jpg</thumbnail>
+<fanart>https://redecanais.bz/imgs-videos/Filmes/Solteiramente.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]</item>
+<item>
 
 <item>
 <item><title>[COLOR white]Vem Com o Papai [COLOR yellow](2020)[COLOR red]Comedia[/COLOR]</title>
