@@ -7,199 +7,40 @@
 by RAMALHOTV
 [COLOR yellow]l[/COLOR]- FILMES 2020 -[COLOR yellow] PEDIDOS E SUJESTAO  ZAPP (44) 998656144 [/COLOR]</info>
 <item>
- <item>
-<title>[B]Adeus[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1TQ8t_pRATE9LQmFaO7JgMG-nLtLa634w/view</link>
-<thumbnail>https://1.bp.blogspot.com/-yjVTDNcucgw/X45DuCbyt_I/AAAAAAAAXvI/WyOwEySErQAuxc_2tUXKa6fEbFthpe16gCLcBGAsYHQ/s320/adeus-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<fanart>https://1.bp.blogspot.com/-yjVTDNcucgw/X45DuCbyt_I/AAAAAAAAXvI/WyOwEySErQAuxc_2tUXKa6fEbFthpe16gCLcBGAsYHQ/s320/adeus-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:Um prisioneiro consegue permissão para participar da primeira comunhão da filha. Sua morte acidental durante um tiroteio na favela levanta um esquema de narcotráfico e corrupção policial. Cabe a policia cobrir o caso para impedir o pai de se vingar.
-[/B][/COLOR]</item>
-<item>
-
-<item>
-<title>[B]A Espiã[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1IIrS3mWWlfx538tUkqCY2_kXU_HbtTUc/view</link>
-<thumbnail>https://1.bp.blogspot.com/-PrsPe8XRydU/X45C7W5N7lI/AAAAAAAAXu8/kSNDYk1XSgoc5iVNXC801LV_5RQJVgX9ACLcBGAsYHQ/s320/a-espia-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<fanart>https://1.bp.blogspot.com/-PrsPe8XRydU/X45C7W5N7lI/AAAAAAAAXu8/kSNDYk1XSgoc5iVNXC801LV_5RQJVgX9ACLcBGAsYHQ/s320/a-espia-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:O filme mostra a jornada da famosa atriz escandinava Sonja Wigert, que se tornou espiã da inteligência sueca depois que seu pai foi preso pelos alemães. Enquanto se infiltrava mais profundamente na rede de espiões alemães, ameaças e rumores sobre suas simpatias começaram a se desgastar e ela teve que tomar uma decisão fatídica para salvar seu relacionamento com o namorado diplomata húngaro Andor Gellert.
-[/B][/COLOR]</item>
-<item>
-
-<item>
-<title>[B]O Braço Direito[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1uvxJ92kzoCjgTzSMGAN-tDai7Z_hTgls/view</link>
-<thumbnail>https://1.bp.blogspot.com/-d0S0zZGt8qc/X45CEvs5I1I/AAAAAAAAXuw/-Z0dJKpC57Mvm_Bdb2yZxgcJ6UTM1xcAACLcBGAsYHQ/s320/o-braco-direito-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<fanart>https://1.bp.blogspot.com/-d0S0zZGt8qc/X45CEvs5I1I/AAAAAAAAXuw/-Z0dJKpC57Mvm_Bdb2yZxgcJ6UTM1xcAACLcBGAsYHQ/s320/o-braco-direito-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:Em?O Braço Direito? conhecemos a história de Anselmo, um ex-investigador da Polícia Civil que agora atua clandestinamente no Mercado de Ações como o homem de confiança e “faz-tudo” de um magnata da Bovespa. Ele sofre de metástase (câncer generalizado) e tem pouco tempo para solucionar complexas situações profissionais e pessoais.[/B][/COLOR]</item>
-<item>
-
-<item>
-<title>[B]Meu Amigo Robô[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ObBneWLDG63wnyfaexrTx7Zk4TrStyB-/view</link>
-<thumbnail>https://1.bp.blogspot.com/-_-xum2As1SA/X45BAmTOa3I/AAAAAAAAXuk/ftqLV6ygKrwaUXf7eqDHRvcPSUmMM0figCLcBGAsYHQ/s320/meu-amigo-robo-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<fanart>https://1.bp.blogspot.com/-_-xum2As1SA/X45BAmTOa3I/AAAAAAAAXuk/ftqLV6ygKrwaUXf7eqDHRvcPSUmMM0figCLcBGAsYHQ/s320/meu-amigo-robo-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:Moscou, Rússia. A-112 é um robô humanoide destinado a atuar em situações de resgate, de forma a salvar pessoas e diminuir riscos aos humanos. Entretanto, apesar do longo tempo de ensino por uma dedicada equipe de cientistas, ele ainda comete erros básicos de avaliação, quando precisa entrar em ação. Com o projeto correndo riscos de ser cancelado, o robô foge do laboratório decidido a descobrir o que é uma família. Em sua busca ele conhece Mitya, filho de dois cientistas do local que o criou, que é negligenciado pelos pais. Não demora muito para que eles se tornem amigos e Mitya o ajude a se esconder, quando sua fuga se torna pública.[/B][/COLOR]</item>
-<item>
-
-
- <item>
-<title>[B]Attraction 2 -  Invasão[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1UQSiIeBBwWqvM93zqLI9Np08thMaQdy_/view?usp=drivesdk</link>
-<thumbnail>https://1.bp.blogspot.com/-XVDfcqYlKq8/X4pXwIkEWtI/AAAAAAAAXtE/cUhxskPRIgM7VAbO6UNkiIEypI6yaA5xACLcBGAsYHQ/s320/attraction-2-invasao-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<fanart>https://1.bp.blogspot.com/-XVDfcqYlKq8/X4pXwIkEWtI/AAAAAAAAXtE/cUhxskPRIgM7VAbO6UNkiIEypI6yaA5xACLcBGAsYHQ/s320/attraction-2-invasao-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:Com a queda da nave alienígena, a vida de Julia mudou, agora, três anos depois, a humanidade está prestes a experimentar um novo encontro.[/B][/COLOR]</item>
-<item>
-
-<item>
-<title>[B]Manual de Caça a Monstros[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zMExp9GCKAIVnKFJz3bc3fYEwwEFlweP/view?usp=drivesdk</link>
-<thumbnail>https://1.bp.blogspot.com/-36Uv0ri_bL4/X4pYzMeffWI/AAAAAAAAXtY/9EBnBYZykIQam6d480z_XZsgK_07oXscACLcBGAsYHQ/s320/manual-de-caca-a-monstros-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<fanart>https://1.bp.blogspot.com/-36Uv0ri_bL4/X4pYzMeffWI/AAAAAAAAXtY/9EBnBYZykIQam6d480z_XZsgK_07oXscACLcBGAsYHQ/s320/manual-de-caca-a-monstros-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:Uma antipática babá que não gosta muito de crianças precisa se juntar à uma sociedade secreta de babás para lutar contra criaturas da noite quando a criança que ela está cuidando é sequestrada por monstros.
-[/B][/COLOR]</item>
-<item>
- <item>
-<title>[B]Sociedade Secreta dos Segundos Filhos Reais[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11dRDZCIu1E9q4_1iOJvUg3SI9lATsC8n/view?usp=drivesdk</link>
-<thumbnail>https://1.bp.blogspot.com/-eg4UQbWJjnU/X4CqjzzjseI/AAAAAAAAXn8/Isq1KUStgj8u_ZKqVhQPjL1kkcbQrScdQCLcBGAsYHQ/s320/sociedade-secreta-dos-segundos-filhos-reais-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<fanart>https://1.bp.blogspot.com/-eg4UQbWJjnU/X4CqjzzjseI/AAAAAAAAXn8/Isq1KUStgj8u_ZKqVhQPjL1kkcbQrScdQCLcBGAsYHQ/s320/sociedade-secreta-dos-segundos-filhos-reais-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:Sam (Peyton Elizabeth Lee) é uma princesa rebelde segunda na linha de sucessão do trono de Ilíria, atualmente ocupado por sua mãe. Quando seu desinteresse pela vida real chega ao limite, ela descobre que tem superpoderes e pertence a uma antiga sociedade secreta que tem a missão de manter a paz no reino.[/B][/COLOR]</item>
-<item>
-
-<item>
-<title>[B]Nekrotronic[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1S0ZulETH94-elcaf3eJ7NahX0uSZ_tai/view?usp=drivesdk</link>
-<thumbnail>https://1.bp.blogspot.com/-Wyax7kKxKuY/X4CqAuSp4eI/AAAAAAAAXnw/bivlSskaC8QniZVQk8kdM3QOW3fZX1loACLcBGAsYHQ/s320/nekrotronic-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<fanart>https://1.bp.blogspot.com/-Wyax7kKxKuY/X4CqAuSp4eI/AAAAAAAAXnw/bivlSskaC8QniZVQk8kdM3QOW3fZX1loACLcBGAsYHQ/s320/nekrotronic-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:Um jovem tem sua vida mudada da noite para o dia quando ele descobre que é parte de um grupo chamado Nekromancers. Caçadores de forças sobrenaturais malignas, os Nekromancers se põem a lutar contra seres demoníacos que usam aplicativos e redes sociais para possuir pessoas.[/B][/COLOR]</item>
-<item>
-
-<item>
-<title>[B]Contos do Caçador de Sombras[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1vRoM2PgZmb-6planfcYaA5aZPWImUWdf/view?usp=drivesdk</link>
-<thumbnail>https://1.bp.blogspot.com/-WisMRZ6xSVM/X4CpQUB26oI/AAAAAAAAXno/YL4mNdgD-WULUxBvrEEJu7pVKyWSD0DRwCLcBGAsYHQ/s320/contos-do-cacador-de-sombras-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<fanart>https://1.bp.blogspot.com/-WisMRZ6xSVM/X4CpQUB26oI/AAAAAAAAXno/YL4mNdgD-WULUxBvrEEJu7pVKyWSD0DRwCLcBGAsYHQ/s320/contos-do-cacador-de-sombras-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:Um lendário caçador de demônios (Jackie Chan), rastreando as bestas que entram na dimensão humana, assistido por um protegido de um homem da lei e um grupo heterogêneo de monstros amigos.
-[/B][/COLOR]</item>
-<item>
-
-<item>
-<title>[B]Mentira Incondicional[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1qWDA0ecpIqMxwMbXe54hau7rW7D94CWf/view?usp=drivesdk</link>
-<thumbnail>https://1.bp.blogspot.com/-1A3zgsv2K6s/X3_xu32sQgI/AAAAAAAAXng/z0EPKJ57QAkplTOI4pNMsXBhiKtIaSO9gCLcBGAsYHQ/s320/mentira-incondicional-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<fanart>https://1.bp.blogspot.com/-1A3zgsv2K6s/X3_xu32sQgI/AAAAAAAAXng/z0EPKJ57QAkplTOI4pNMsXBhiKtIaSO9gCLcBGAsYHQ/s320/mentira-incondicional-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:Quando sua filha adolescente confessa ter matado impulsivamente seu melhor amigo, dois pais desesperados tentam encobrir o crime horrível, levando-os a uma complicada teia de mentiras e enganos.[/B][/COLOR]</item>
-<item>
-
-<item>
-<title>[B]Em Busca do Castelo Dourado[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1D-uN7Lw1Fw_uTAPnm4K1QzOz7dJ0SOVn/view?usp=drivesdk</link>
-<thumbnail>https://1.bp.blogspot.com/-E8WTefUAak8/X3_kHpirqWI/AAAAAAAAXnY/gWET1DLOwbMaEDtdcL-DlXkxgkKFZYbkwCLcBGAsYHQ/s320/the-ash-lad-em-busca-do-castelo-dourado-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<fanart>https://1.bp.blogspot.com/-E8WTefUAak8/X3_kHpirqWI/AAAAAAAAXnY/gWET1DLOwbMaEDtdcL-DlXkxgkKFZYbkwCLcBGAsYHQ/s320/the-ash-lad-em-busca-do-castelo-dourado-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:Na sequência das aventuras de Espen Ash Lad, ele e Kristin embarcam em perigosas jornadas para salvar os irmãos de Espen.[/B][/COLOR]</item>
-<item>
-
-<item>
-<title>[B]O Halloween do Hubie[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1no_iko-qfZ_XzLjxCi_o13RaIIi8Tfxw/view?usp=drivesdk</link>
-<thumbnail>https://1.bp.blogspot.com/-LKdmeJoF5EQ/X3_jRfq3RaI/AAAAAAAAXnM/1bREKrFS04Y1WiysJ92TmmRs6KH3dAeggCLcBGAsYHQ/s320/o-halloween-do-hubie-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<fanart>https://1.bp.blogspot.com/-LKdmeJoF5EQ/X3_jRfq3RaI/AAAAAAAAXnM/1bREKrFS04Y1WiysJ92TmmRs6KH3dAeggCLcBGAsYHQ/s320/o-halloween-do-hubie-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:Hubie Dubois (Adam Sandler) é um excêntrico voluntário da comunidade de Salem que se encontra no meio de um assassinato na noite de Halloween.
-[/B][/COLOR]</item>
-<item>
-
-
-<item>
-<title>[B]S.W.A.T - Força Letal[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17sG4xC6YjKiae8W7FuXNS51X6pQD8skr/view?usp=drivesdk</link>
-<thumbnail>https://1.bp.blogspot.com/-ddwiVs0mSlc/X3ufNTWU84I/AAAAAAAAXl8/yFVaA3y_ucAcxBP5oB3Xz5j0tH9JYKfLgCLcBGAsYHQ/s320/swat-forca-letal-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<fanart>https://1.bp.blogspot.com/-ddwiVs0mSlc/X3ufNTWU84I/AAAAAAAAXl8/yFVaA3y_ucAcxBP5oB3Xz5j0tH9JYKfLgCLcBGAsYHQ/s320/swat-forca-letal-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:A história se concentra na Unidade de Polícia Especial Chinesa, desde o treinamento duro até a primeira missão.
-[/B][/COLOR]</item>
-<item>
-
  
  <item>
-<title>[B]Capturado[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1VBSydeWXNAQ94oNEycrUY6kJcPNlhYk_/view?usp=drivesdk</link>
-<thumbnail>https://1.bp.blogspot.com/-EcD62ftvfZw/X358TQr796I/AAAAAAAAXmw/qHrOAsEXKjch6kGyE6c9oBVdiiU-_e7rQCLcBGAsYHQ/s320/capturado-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<fanart>https://1.bp.blogspot.com/-EcD62ftvfZw/X358TQr796I/AAAAAAAAXmw/qHrOAsEXKjch6kGyE6c9oBVdiiU-_e7rQCLcBGAsYHQ/s320/capturado-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:O filho de um ex-agente das forças especiais é sequestrado e enterrado dentro de um caixão no deserto. Se ele quer ver seu filho vivo novamente, então ele deve completar três missões em menos de 5,5 horas antes de seu filho ficar sem oxigênio. Suas missões são eliminar três perigosos grupos internacionais.[/B][/COLOR]</item>
-<item>
-<item>
-<title>[B]Caixa Preta[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hTLmW2Q1xNYyWlpoZjznCGtRhTnC1tZN/view?usp=drivesdk</link>
-<thumbnail>https://1.bp.blogspot.com/-OK6pBl5Dolg/X30JxlC3pGI/AAAAAAAAXmQ/yPD4el7AtZ80-hbGDCPD1Fjn_SZ6CUPAACLcBGAsYHQ/s320/caixa-preta-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<fanart>https://1.bp.blogspot.com/-OK6pBl5Dolg/X30JxlC3pGI/AAAAAAAAXmQ/yPD4el7AtZ80-hbGDCPD1Fjn_SZ6CUPAACLcBGAsYHQ/s320/caixa-preta-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:Depois de perder sua esposa e sua memória em um acidente de carro, um pai solteiro passa por um agonizante tratamento experimental que o faz questionar quem ele realmente é.[/B][/COLOR]</item>
+<title>[B]Bob Esponja: O Incrível Resgate [COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>https://top.azureedge.net/RCFServer5/ondemand/BOBESPJOINCRVLRSGTE.mp4?attachment=true</link>
+<thumbnail>https://br.web.img2.acsta.net/pictures/19/11/14/15/46/2381876.jpg?coixp=50&coiyp=50</thumbnail>
+<fanart>https://br.web.img2.acsta.net/pictures/19/11/14/15/46/2381876.jpg?coixp=50&coiyp=50</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Em Bob Esponja: O Incrível Resgate, o sumiço de Gary preocupa seu amigo. Segundo Bob Esponja, Gary foi "caracolstrado" pelo temível Rei Poseidon e levado para a cidade perdida de Atlantic City. Junto a Patrick Estrela, ele sai em uma missão de resgate ao querido amigo, e nesta jornada os dois vão conhecer novos personagens e viver inimagináveis aventuras.</item>
 <item>
 
 <item>
-<title>[B]A Casa do Terror[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1UnPdUgEVJsop8dTTy6NJotXk-bGdNBMG/view?usp=drivesdk</link>
-<thumbnail>https://1.bp.blogspot.com/-d-mokFZrdZA/X30JDGAbIKI/AAAAAAAAXmI/cubnAWPcBTo-ljlWOELUttUZ3UmJjoNngCLcBGAsYHQ/s320/a-casa-do-terror-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<fanart>https://1.bp.blogspot.com/-d-mokFZrdZA/X30JDGAbIKI/AAAAAAAAXmI/cubnAWPcBTo-ljlWOELUttUZ3UmJjoNngCLcBGAsYHQ/s320/a-casa-do-terror-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:No Halloween, um grupo de amigos encontram uma casa assombrada "extrema", que promete se alimentar dos maiores medos deles. A noite se torna um verdadeiro pesadelo quando eles percebem que é real.
-[/B][/COLOR]</item>
-<item>
-<item>
-<title>[B]Cura Fatal[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18rirGRtKeVDq6PfGyL_aEi64i9OwlqYr/view?usp=drivesdk</link>
-<thumbnail>https://1.bp.blogspot.com/-T5Ly1_IvHEE/X3k-Q4lKIvI/AAAAAAAAXlE/WYSWQr5ZGpULFaUUsZwDhtpkf2-tdIyiACLcBGAsYHQ/s320/cura-fatal-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<fanart>https://1.bp.blogspot.com/-T5Ly1_IvHEE/X3k-Q4lKIvI/AAAAAAAAXlE/WYSWQr5ZGpULFaUUsZwDhtpkf2-tdIyiACLcBGAsYHQ/s320/cura-fatal-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:Um físico recluso cria uma máquina de energia infinita em seu porão, que muda a sua vida e todos aqueles ao redor dele. Quando descobre que sua esposa está à beira da morte, um cientista corre contra o tempo para salvar sua família e achar uma cura, só que para isso ele ignora qualquer protocolo ou ética. Ao fazer experimentos de DNA em humanos, ele acaba criando algo terrível que poderia ser a extinção da humanidade.[/B][/COLOR]</item>
+<title>[B]O Grande Ivan [COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>https://top.azureedge.net/RCFServer5/ondemand/OGRNDIVN.mp4?attachment=true</link>
+<thumbnail>https://disneyplusbrasil.com.br/wp-content/uploads/2020/08/O-Grande-Ivan.jpg</thumbnail>
+<fanart>https://disneyplusbrasil.com.br/wp-content/uploads/2020/08/O-Grande-Ivan.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:Ivan é um gorila muito especial, no entanto, ele sofre por não saber sobre o seu próprio passado. Com a ajuda de sua amiga Stela, uma elefante, eles vão atrás de pistas para desvendar os mistérios relacionados à vida passada de Ivan e planejam uma fuga do cativeiro em que vivem.[/B][/COLOR]</item>
 <item>
 
 <item>
-<title>[B]Vampiros Vs The Bronx[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/11ybKVSh9b0ZbYrgRJsvOlR0ezFPMbWSC/view?usp=drivesdk</link>
-<thumbnail>https://1.bp.blogspot.com/-QvWxFtHjGl8/X3k9N1MQPjI/AAAAAAAAXk4/52OsGnBjto0zQ5UFNocHHjcE2nt3Zw33QCLcBGAsYHQ/s320/vampiros-vs-the-bronx-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<fanart>https://1.bp.blogspot.com/-QvWxFtHjGl8/X3k9N1MQPjI/AAAAAAAAXk4/52OsGnBjto0zQ5UFNocHHjcE2nt3Zw33QCLcBGAsYHQ/s320/vampiros-vs-the-bronx-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:Quando uma força misteriosa, improvável e mortal surge no Bronx, um grupo de amigos adolescentes se reúne para salvar a adorada bodega local e lutar contra uma força sobrenatural que pretende assumir a casa a todo custo.
-[/B][/COLOR]</item>
+<title>[B]Luta Pela Fé[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>https://top.azureedge.net/RCFServer5/ondemand/LTAPLFE.mp4?attachment=true</link>
+<thumbnail>https://a.imagem.app/AHrHZJ.jpg</thumbnail>
+<fanart>https://a.imagem.app/AHrHZJ.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:Quando Willard e Rebecca Bean são chamados em uma missão a uma cidade hostil, eles devem escolher entre lutar pelo seu direito de morar lá ou amar seus vizinhos hostis.[/B][/COLOR]</item>
 <item>
 
 <item>
-<title>[B]Teste de Paternidade[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Enaf17NsKvJegWmGX0gkCzw1k-D3Cs3d/view?usp=drivesdk</link>
-<thumbnail>https://1.bp.blogspot.com/-OkvvYuzpByE/X3k80qr0pAI/AAAAAAAAXkw/A9YHi7vNRoIq-kq422uMPCLGm3l2usShACLcBGAsYHQ/s320/teste-de-paternidade-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<fanart>https://1.bp.blogspot.com/-OkvvYuzpByE/X3k80qr0pAI/AAAAAAAAXkw/A9YHi7vNRoIq-kq422uMPCLGm3l2usShACLcBGAsYHQ/s320/teste-de-paternidade-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:Eles têm um casamento perfeito. Até que ele cisma que quer ter um filho justo quando a carreira dela está decolando. Será que o destino pode dar uma ajudinha?[/B][/COLOR]</item>
-<item>
-
-
-
- 
- <item>
-<title>[B]A Babá: Rainha da Morte[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>https://playplus.azureedge.net/RCFServer2/ondemand/ABABA.mp4?attachment=true</link>
-<thumbnail>https://filmesviatorrents.gratis/wp-content/uploads/2020/09/A-Bab%C3%A1-Rainha-da-Morte-Torrent-214x300.jpg</thumbnail>
-<fanart>https://assets.papelpop.com/wp-content/uploads/2020/08/baba-2.jpg</fanart>
-<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Dois anos após sobreviver a um culto satânico, Cole vive outro pesadelo: o ensino médio. Mas os demônios do passado continuam infernizando sua vida.</item>
-<item>
-
-<item>
-<title>[B]Operação Obscura[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ProQpeot70v0f0Ai1MLtgGeBIIZxXcxg/view?usp=drivesdk</link>
-<thumbnail>https://filmesviatorrents.gratis/wp-content/uploads/2020/09/Opera%C3%A7%C3%A3o-Obscura-Torrent-200x300.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/L9bVuF7SGS8/maxresdefault.jpg</fanart>
-<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Quando uma operação de rotina resulta na brutal e inexplicável morte de seu colega, uma policial percebe que ninguém, além dela, consegue enxergar a gravação do incidente. Com ataques misteriosos aumentando ao seu redor, ela precisa correr contra o tempo para entender a força sobrenatural por trás deles.</item>
-<item>
-
-<item>
-<title>[B]Vem com o Papai[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=?usp=drivesdk</link>
-<thumbnail>https://www.cafecomfilme.com.br/media/k2/items/cache/58c55e713efcfd97ae673224c426d916_XL.jpg?t=20200815_212441</thumbnail>
-<fanart>https://www.cafecomfilme.com.br/media/k2/items/cache/58c55e713efcfd97ae673224c426d916_XL.jpg?t=20200815_212441</fanart>
-<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Um homem de trinta e poucos anos viaja para uma cabana remota para se reconectar com seu pai distante, mas aos poucos vai descobrindo mais sobre o sombrio passado dele.</item>
+<title>[B]Espada de Deus: A Última Cruzada[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
+<link>https://top.azureedge.net/RCFServer5/ondemand/ESPDDEUSATUTMCRZDA.mp4?attachment=true</link>
+<thumbnail>https://ottvsimg.ottvs.com.br/cov/mar.178320/0178320_335.jpg</thumbnail>
+<fanart>https://ottvsimg.ottvs.com.br/cov/mar.178320/0178320_335.jpg</fanart>
+<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]https://top.azureedge.net/RCFServer5/ondemand/ESPDDEUSATUTMCRZDA.mp4?attachment=true</item>
 <item>
  <item>
-<title>[B]Mulan[COLOR yellow](2020)[/COLOR] - [COLOR red](HD)[/COLOR][/B]</title>
-<link>https://proxy.ec.cx/video.php?url=RCFServer5/ondemand/MULAN.mp4?attachment=true</link>
-<thumbnail>https://vignette.wikia.nocookie.net/vozesportuguesas/images/c/cf/Mulan-0.jpg/revision/latest?cb=20200904185918&path-prefix=pt</thumbnail>
-<fanart>https://1.bp.blogspot.com/-wyQNOvxnRmo/X1N-YhkyxVI/AAAAAAAAA1w/EG4Ia7j4j3gpfsoDGOvqc2Ff-egaZVYvwCLcBGAsYHQ/w500-h250/mulan%2B2020.jpeg</fanart>
-<info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]RAMALHO[/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Hua Mulan (Liu Yifei) é a espirituosa e determinada filha mais velha de um honrado guerreiro. Quando o Imperador da China emite um decreto que um homem de cada família deve servir no exército imperial, Mulan decide tomar o lugar de seu pai, que está doente. Assumindo a identidade de Hua Jun, ela se disfarça de homem para combater os invasores que estão atacando sua nação, provando-se uma grande guerreira.
-</item>
+
 <item>
 <item><title>[COLOR white]Vem Com o Papai [COLOR yellow](2020)[COLOR red]Comedia[/COLOR]</title>
 <link>https://proxy.ec.cx/video.php?url=RCFServer5/ondemand/VMCMOPAPI.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tlc8G9KJiTDDWUFTaWRqWeL1LkN.jpg</thumbnail><info>[COLOR yellow]m homem de trinta e poucos anos viaja para uma cabana remota para se reconectar com seu pai distante, mas aos poucos vai descobrindo mais sobre o sombrio passado dele.[/COLOR]</info></item>
